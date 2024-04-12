@@ -40,3 +40,39 @@ h1 {
   border: 1px solid #ccc;
   padding: 10px;
 }
+
+/* Updated CSS for card layout */
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%; /* Make card width same as parent container */
+  box-sizing: border-box;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.card p {
+  margin-bottom: 10px;
+}
+
+.card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Comments */
+.comments {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.comments h3 {
+  margin-top: 0;
+}
