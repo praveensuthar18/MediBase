@@ -69,4 +69,4 @@ def annotate(text):
     return extracted_data
 
 # request_content_type = 'application/x-www-form-urlencoded'
-
+annotate("cholera")

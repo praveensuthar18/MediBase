@@ -5,14 +5,14 @@
 }
 
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   background: linear-gradient(135deg, #78ffd6 0%, #a8edea 50%, #a8edea 100%);
   color: #333;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding-top: 20px; 
+  padding-top: 20px;
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
   max-width: 600px;
   background: rgba(255, 255, 255, 0.8);
   border-radius: 15px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
 }
 
@@ -45,7 +45,6 @@ button:hover {
   background-color: #024e76;
 }
 
-
 .search {
   display: flex;
   gap: 10px;
@@ -59,7 +58,7 @@ input[type="text"] {
   border-radius: 8px;
   outline: none;
   font-size: 16px;
-  box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 #searchInput {
@@ -77,9 +76,9 @@ input[type="text"] {
 }
 
 #searchResults {
-  background: linear-gradient(135deg, #78ffd6 0%, #a8edea 50%, #a8edea 100%);; 
+  background: linear-gradient(135deg, #78ffd6 0%, #a8edea 50%, #a8edea 100%);
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 20px;
   backdrop-filter: blur(5px);
   display: none;
@@ -88,35 +87,35 @@ input[type="text"] {
 .card {
   display: flex;
   flex-direction: column;
-  border: none; 
+  border: none;
   border-radius: 10px;
   padding: 15px;
   margin-bottom: 20px;
   background: white;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .card h2 {
-  color: #0367a6; 
+  color: #0367a6;
   margin-top: 0;
   margin-bottom: 10px;
 }
 
 .card p {
-  color: #333; 
+  color: #333;
   margin-bottom: 10px;
 }
 
 .card a {
-  color: #024e76; 
+  color: #024e76;
   text-decoration: none;
-  transition: color 0.3s ease; 
+  transition: color 0.3s ease;
 }
 
 .card a:hover {
@@ -131,7 +130,7 @@ input[type="text"] {
 }
 
 .comments h3 {
-  color: #0367a6; 
+  color: #0367a6;
   margin-top: 0;
 }
 
@@ -150,6 +149,39 @@ input[type="text"] {
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.pill {
+  display: inline-block;
+  padding: 5px 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  background-color: #333;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.symptoms-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pill.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
+#getPostsButton {
+  margin-top: 20px;
+}
+
+#postsContainer {
+  margin-top: 20px;
 }
