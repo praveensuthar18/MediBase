@@ -108,7 +108,7 @@ document
 
         const url = document.createElement("a");
         url.textContent = "Read more";
-        url.href = post.url[0];
+        url.href = `https://${post.url[0]}`;
         url.target = "_blank";
 
         const comments = document.createElement("div");
