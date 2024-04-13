@@ -1,0 +1,2248 @@
+Source,Target,Weight
+Malaise,Seizures,100
+Malaise,Mass of body region,28
+Malaise,Halitosis,4
+Malaise,Spells (neurological symptom),36
+Malaise,Catch - finding of sensory dimension of pain,57
+Malaise,Fever,54
+Malaise,Coughing,74
+Malaise,Hunger,17
+Malaise,Flatulence,39
+Malaise,Pain,91
+Malaise,Ache,77
+Malaise,Neck pain,11
+Malaise,Weakness,85
+Malaise,Discomfort,63
+Malaise,Flare,39
+Malaise,Chest pain,35
+Malaise,Feeling sick,22
+Malaise,Nausea,109
+Malaise,Feeling despair,5
+Malaise,Sighing,14
+Malaise,Muscle cramp,70
+Malaise,Sore to touch,35
+Malaise,Chills,15
+Malaise,Sore throat,22
+Malaise,Stomach ache,43
+Malaise,Sharp pain,14
+Malaise,Abdominal pain,38
+Malaise,Diarrhea,55
+Malaise,Breath symptom,4
+Malaise,Exanthema,37
+Malaise,Flushing,32
+Malaise,Tremor,59
+Malaise,Slight fever,2
+Malaise,Redness of eye,2
+Malaise,Vomiting,63
+Malaise,Upset stomach,15
+Malaise,Rigor - temperature-associated observation,5
+Malaise,Muscle rigidity,7
+Malaise,Dyspnea,15
+Malaise,Breathing abnormally deep,13
+Malaise,Cough with fever,2
+Malaise,Blackout,3
+Malaise,Snoring,4
+Malaise,Feeling bad emotionally,139
+Malaise,Charmed,6
+Malaise,Sleeplessness,23
+Malaise,Sick to stomach,9
+Malaise,Syncope,25
+Malaise,Weight problem,3
+Malaise,Whooping respiration,9
+Malaise,Sore back,2
+Malaise,Shoulder pain,3
+Malaise,Glare - eye symptom,4
+Malaise,Heartburn,46
+Malaise,Mastodynia,6
+Malaise,Breast tenderness,6
+Malaise,Recurrent muscle twitches,8
+Malaise,Absence of sensation,18
+Malaise,Feeling cold,7
+Malaise,Heart problem,10
+Malaise,Lightheadedness,9
+Malaise,Arthralgia,19
+Malaise,Chronic pain,11
+Malaise,Cold sweat,3
+Malaise,Dull pain,21
+Malaise,Agitation,4
+Malaise,Restlessness,4
+Malaise,Buckling,2
+Malaise,Welts,24
+Malaise,Gasping for breath,6
+Malaise,Spasm,26
+Malaise,Skin symptoms,3
+Malaise,Eructation,19
+Malaise,Hot flushes,24
+Malaise,Neuralgia,5
+Malaise,Rhinorrhea,7
+Malaise,Congestion of throat,5
+Malaise,Lump in throat,8
+Malaise,Neck stiffness,4
+Malaise,Vertigo,8
+Malaise,Diarrhea and vomiting,9
+Malaise,Itch burning,7
+Malaise,Burning feet,2
+Malaise,Swollen lip,3
+Malaise,Apnea,2
+Malaise,Renal pain,2
+Malaise,Blood in stool,6
+Malaise,Back pain,37
+Malaise,Facial pain,2
+Malaise,Back symptoms,4
+Malaise,Night sweats,16
+Malaise,Cardiac pain,8
+Malaise,Earache,3
+Malaise,Knee pain,4
+Malaise,Pain in lower limb,3
+Malaise,Local reaction,2
+Malaise,Dystonia,2
+Malaise,Chest tightness,5
+Malaise,Difficulty sleeping,2
+Malaise,Headache,6
+Malaise,Breathing pain,5
+Malaise,Pruritus ani,3
+Malaise,Low back pain,11
+Malaise,Hip pain,3
+Malaise,Pelvic pain,6
+Malaise,Pelvic pain female,6
+Malaise,Hip joint pain,3
+Malaise,Groin pain,3
+Malaise,Angina pectoris,2
+Malaise,Jaw pain,3
+Malaise,Sciatica,4
+Malaise,Deep pain,3
+Malaise,Bone pain,6
+Malaise,Fever with rash,2
+Malaise,Bladder symptoms,2
+Malaise,Nausea chronic,2
+Malaise,Night pain,8
+Malaise,Left flank pain,2
+Malaise,Eye pain,3
+Malaise,Breast pain female,5
+Malaise,Blushing,2
+Malaise,Thigh cramps,2
+Malaise,Side pain,3
+Malaise,Liver pain,8
+Malaise,Kidney problem,2
+Malaise,Right upper quadrant pain,7
+Malaise,Bladder pain,3
+Malaise,Burning anal,2
+Malaise,Gastric distention,2
+Malaise,Feeling of loss of feeling,5
+Malaise,Upper abdominal pain,3
+Malaise,Coma states,2
+Malaise,Eye lump,2
+Seizures,Mass of body region,14
+Seizures,Spells (neurological symptom),13
+Seizures,Catch - finding of sensory dimension of pain,19
+Seizures,Fever,19
+Seizures,Coughing,31
+Seizures,Hunger,5
+Seizures,Flatulence,12
+Seizures,Pain,109
+Seizures,Ache,19
+Seizures,Neck pain,3
+Seizures,Weakness,27
+Seizures,Discomfort,13
+Seizures,Flare,12
+Seizures,Chest pain,10
+Seizures,Feeling sick,7
+Seizures,Nausea,29
+Seizures,Sighing,4
+Seizures,Muscle cramp,22
+Seizures,Sore to touch,13
+Seizures,Chills,5
+Seizures,Sore throat,9
+Seizures,Stomach ache,13
+Seizures,Sharp pain,5
+Seizures,Abdominal pain,12
+Seizures,Diarrhea,14
+Seizures,Exanthema,13
+Seizures,Flushing,8
+Seizures,Tremor,16
+Seizures,Vomiting,15
+Seizures,Upset stomach,3
+Seizures,Muscle rigidity,2
+Seizures,Dyspnea,10
+Seizures,Breathing abnormally deep,4
+Seizures,Blackout,2
+Seizures,Feeling bad emotionally,16
+Seizures,Sleeplessness,4
+Seizures,Sick to stomach,4
+Seizures,Syncope,16
+Seizures,Weight problem,3
+Seizures,Whooping respiration,2
+Seizures,Heartburn,12
+Seizures,Breast tenderness,2
+Seizures,Recurrent muscle twitches,5
+Seizures,Absence of sensation,6
+Seizures,Heart problem,3
+Seizures,Lightheadedness,3
+Seizures,Arthralgia,8
+Seizures,Cold sweat,3
+Seizures,Dull pain,11
+Seizures,Agitation,2
+Seizures,Restlessness,2
+Seizures,Welts,4
+Seizures,Gasping for breath,4
+Seizures,Spasm,6
+Seizures,Eructation,5
+Seizures,Hot flushes,9
+Seizures,Rhinorrhea,2
+Seizures,Congestion of throat,3
+Seizures,Neck stiffness,2
+Seizures,Shaking of hands,2
+Seizures,Apnea,4
+Seizures,Renal pain,2
+Seizures,Blood in stool,2
+Seizures,Back pain,11
+Seizures,Night sweats,7
+Seizures,Knee pain,2
+Seizures,Phantosmia,2
+Seizures,Low back pain,4
+Seizures,Pelvic pain,2
+Seizures,Pelvic pain female,2
+Seizures,Feeling faint,2
+Seizures,Muscle spasticity,3
+Seizures,Grunting respiration,2
+Seizures,Unspecified visual loss,2
+Seizures,Night pain,2
+Seizures,Side pain,3
+Seizures,Liver pain,2
+Seizures,Sitting pain,2
+Seizures,Right upper quadrant pain,3
+Seizures,Visual halos (disorder),3
+Seizures,Feeling of loss of feeling,2
+Seizures,Upper abdominal pain,2
+Seizures,Swelling of the neck,2
+Seizures,Eye lump,2
+Mass of body region,Spells (neurological symptom),4
+Mass of body region,Catch - finding of sensory dimension of pain,9
+Mass of body region,Fever,9
+Mass of body region,Coughing,8
+Mass of body region,Hunger,5
+Mass of body region,Flatulence,3
+Mass of body region,Pain,63
+Mass of body region,Ache,16
+Mass of body region,Neck pain,3
+Mass of body region,Weakness,6
+Mass of body region,Discomfort,11
+Mass of body region,Chest pain,3
+Mass of body region,Nausea,13
+Mass of body region,Sighing,3
+Mass of body region,Muscle cramp,8
+Mass of body region,Sore to touch,7
+Mass of body region,Chills,3
+Mass of body region,Sore throat,4
+Mass of body region,Stomach ache,6
+Mass of body region,Sharp pain,2
+Mass of body region,Abdominal pain,6
+Mass of body region,Diarrhea,7
+Mass of body region,Exanthema,4
+Mass of body region,Tremor,8
+Mass of body region,Vomiting,7
+Mass of body region,Upset stomach,2
+Mass of body region,Breathing abnormally deep,2
+Mass of body region,Anal pain,2
+Mass of body region,Sleeplessness,2
+Mass of body region,Syncope,5
+Mass of body region,Heartburn,6
+Mass of body region,Feeling cold,2
+Mass of body region,Lightheadedness,2
+Mass of body region,Chronic pain,3
+Mass of body region,Dull pain,4
+Mass of body region,Eructation,4
+Mass of body region,Hot flushes,4
+Mass of body region,Blood in stool,2
+Mass of body region,Back pain,13
+Mass of body region,Facial pain,2
+Mass of body region,Night sweats,5
+Mass of body region,Low back pain,4
+Mass of body region,Rectal pain,2
+Mass of body region,Hip pain,2
+Mass of body region,Pelvic pain,6
+Mass of body region,Pelvic pain female,7
+Mass of body region,Hip joint pain,2
+Mass of body region,Sciatica,2
+Mass of body region,Eye pain,2
+Mass of body region,Side pain,4
+Halitosis,Coughing,2
+Halitosis,Pain,4
+Halitosis,Discomfort,2
+Halitosis,Chest pain,2
+Halitosis,Nausea,4
+Halitosis,Sore throat,2
+Halitosis,Diarrhea,2
+Halitosis,Exanthema,3
+Halitosis,Vomiting,2
+Halitosis,Upset stomach,2
+Halitosis,Heartburn,6
+Halitosis,Welts,2
+Halitosis,Eructation,2
+Spells (neurological symptom),Catch - finding of sensory dimension of pain,9
+Spells (neurological symptom),Fever,6
+Spells (neurological symptom),Coughing,10
+Spells (neurological symptom),Flatulence,9
+Spells (neurological symptom),Pain,40
+Spells (neurological symptom),Ache,8
+Spells (neurological symptom),Weakness,11
+Spells (neurological symptom),Discomfort,5
+Spells (neurological symptom),Flare,5
+Spells (neurological symptom),Chest pain,8
+Spells (neurological symptom),Feeling sick,3
+Spells (neurological symptom),Nausea,20
+Spells (neurological symptom),Muscle cramp,7
+Spells (neurological symptom),Sore to touch,6
+Spells (neurological symptom),Chills,2
+Spells (neurological symptom),Stomach ache,8
+Spells (neurological symptom),Sharp pain,3
+Spells (neurological symptom),Abdominal pain,7
+Spells (neurological symptom),Diarrhea,4
+Spells (neurological symptom),Exanthema,5
+Spells (neurological symptom),Flushing,2
+Spells (neurological symptom),Tremor,10
+Spells (neurological symptom),Vomiting,15
+Spells (neurological symptom),Upset stomach,2
+Spells (neurological symptom),Dyspnea,3
+Spells (neurological symptom),Feeling bad emotionally,7
+Spells (neurological symptom),Sleeplessness,5
+Spells (neurological symptom),Syncope,15
+Spells (neurological symptom),Whooping respiration,2
+Spells (neurological symptom),Heartburn,10
+Spells (neurological symptom),Recurrent muscle twitches,3
+Spells (neurological symptom),Absence of sensation,3
+Spells (neurological symptom),Lightheadedness,2
+Spells (neurological symptom),Arthralgia,3
+Spells (neurological symptom),Chronic pain,4
+Spells (neurological symptom),Dull pain,2
+Spells (neurological symptom),Agitation,3
+Spells (neurological symptom),Restlessness,3
+Spells (neurological symptom),Spasm,3
+Spells (neurological symptom),Eructation,5
+Spells (neurological symptom),Hot flushes,7
+Spells (neurological symptom),Rhinorrhea,3
+Spells (neurological symptom),Lump in throat,2
+Spells (neurological symptom),Vertigo,4
+Spells (neurological symptom),Diarrhea and vomiting,2
+Spells (neurological symptom),Blood in stool,2
+Spells (neurological symptom),Back pain,8
+Spells (neurological symptom),Chest tightness,2
+Spells (neurological symptom),Gastrointestinal pain,2
+Spells (neurological symptom),Nausea chronic,2
+Spells (neurological symptom),Night pain,3
+Spells (neurological symptom),Hunger pangs,2
+Catch - finding of sensory dimension of pain,Fever,10
+Catch - finding of sensory dimension of pain,Coughing,20
+Catch - finding of sensory dimension of pain,Flatulence,5
+Catch - finding of sensory dimension of pain,Pain,50
+Catch - finding of sensory dimension of pain,Ache,10
+Catch - finding of sensory dimension of pain,Weakness,9
+Catch - finding of sensory dimension of pain,Discomfort,6
+Catch - finding of sensory dimension of pain,Flare,2
+Catch - finding of sensory dimension of pain,Chest pain,6
+Catch - finding of sensory dimension of pain,Nausea,7
+Catch - finding of sensory dimension of pain,Feeling despair,2
+Catch - finding of sensory dimension of pain,Sighing,5
+Catch - finding of sensory dimension of pain,Muscle cramp,14
+Catch - finding of sensory dimension of pain,Sore to touch,7
+Catch - finding of sensory dimension of pain,Sore throat,2
+Catch - finding of sensory dimension of pain,Stomach ache,3
+Catch - finding of sensory dimension of pain,Abdominal pain,4
+Catch - finding of sensory dimension of pain,Diarrhea,4
+Catch - finding of sensory dimension of pain,Exanthema,2
+Catch - finding of sensory dimension of pain,Flushing,4
+Catch - finding of sensory dimension of pain,Tremor,8
+Catch - finding of sensory dimension of pain,Slight fever,2
+Catch - finding of sensory dimension of pain,Vomiting,9
+Catch - finding of sensory dimension of pain,Dyspnea,2
+Catch - finding of sensory dimension of pain,Breathing abnormally deep,8
+Catch - finding of sensory dimension of pain,Cough with fever,2
+Catch - finding of sensory dimension of pain,Feeling bad emotionally,10
+Catch - finding of sensory dimension of pain,Sleeplessness,2
+Catch - finding of sensory dimension of pain,Syncope,2
+Catch - finding of sensory dimension of pain,Whooping respiration,4
+Catch - finding of sensory dimension of pain,Heartburn,5
+Catch - finding of sensory dimension of pain,Lightheadedness,2
+Catch - finding of sensory dimension of pain,Arthralgia,2
+Catch - finding of sensory dimension of pain,Dull pain,3
+Catch - finding of sensory dimension of pain,Gasping for breath,2
+Catch - finding of sensory dimension of pain,Spasm,5
+Catch - finding of sensory dimension of pain,Eructation,2
+Catch - finding of sensory dimension of pain,Hot flushes,3
+Catch - finding of sensory dimension of pain,Blood in stool,2
+Catch - finding of sensory dimension of pain,Back pain,6
+Catch - finding of sensory dimension of pain,Night sweats,2
+Catch - finding of sensory dimension of pain,Low back pain,2
+Catch - finding of sensory dimension of pain,Deep pain,2
+Catch - finding of sensory dimension of pain,Palpitations - fluttering,2
+Fever,Coughing,35
+Fever,Hunger,2
+Fever,Flatulence,3
+Fever,Pain,99
+Fever,Ache,32
+Fever,Neck pain,5
+Fever,Weakness,26
+Fever,Discomfort,9
+Fever,Flare,9
+Fever,Chest pain,7
+Fever,Feeling sick,8
+Fever,Nausea,42
+Fever,Muscle cramp,19
+Fever,Sore to touch,18
+Fever,Chills,17
+Fever,Sore throat,14
+Fever,Stomach ache,9
+Fever,Sharp pain,3
+Fever,Abdominal pain,8
+Fever,Diarrhea,17
+Fever,Exanthema,12
+Fever,Flushing,4
+Fever,Tremor,6
+Fever,Slight fever,3
+Fever,Vomiting,23
+Fever,Upset stomach,4
+Fever,Dyspnea,2
+Fever,Breathing abnormally deep,3
+Fever,Cough with fever,2
+Fever,Feeling bad emotionally,5
+Fever,Sleeplessness,5
+Fever,Sick to stomach,2
+Fever,Syncope,5
+Fever,Whooping respiration,4
+Fever,Shoulder pain,2
+Fever,Heartburn,11
+Fever,Absence of sensation,3
+Fever,Heart problem,2
+Fever,Lightheadedness,3
+Fever,Arthralgia,10
+Fever,Dull pain,8
+Fever,Welts,6
+Fever,Gasping for breath,2
+Fever,Spasm,6
+Fever,Eructation,3
+Fever,Hot flushes,3
+Fever,Rhinorrhea,2
+Fever,Congestion of throat,4
+Fever,Lump in throat,2
+Fever,Neck stiffness,4
+Fever,Diarrhea and vomiting,4
+Fever,Renal pain,3
+Fever,Blood in stool,3
+Fever,Back pain,11
+Fever,Night sweats,8
+Fever,Earache,2
+Fever,Breathing pain,4
+Fever,Low back pain,2
+Fever,Hip pain,2
+Fever,Pelvic pain,4
+Fever,Pelvic pain female,5
+Fever,Hip joint pain,2
+Fever,Bone pain,2
+Fever,Rib pain,2
+Fever,Fever with rash,2
+Fever,Lumps behind ears,2
+Fever,Icterus,2
+Fever,Yellow complexion,2
+Fever,Pitting edema,2
+Coughing,Hunger,2
+Coughing,Flatulence,6
+Coughing,Pain,85
+Coughing,Ache,21
+Coughing,Neck pain,2
+Coughing,Weakness,21
+Coughing,Discomfort,18
+Coughing,Flare,16
+Coughing,Chest pain,18
+Coughing,Feeling sick,8
+Coughing,Nausea,25
+Coughing,Sighing,3
+Coughing,Muscle cramp,14
+Coughing,Sore to touch,21
+Coughing,Chills,4
+Coughing,Sore throat,26
+Coughing,Stomach ache,13
+Coughing,Sharp pain,10
+Coughing,Abdominal pain,11
+Coughing,Diarrhea,9
+Coughing,Heart symptoms,2
+Coughing,Breath symptom,2
+Coughing,Exanthema,12
+Coughing,Flushing,11
+Coughing,Tremor,6
+Coughing,Vomiting,26
+Coughing,Pain in testicle,2
+Coughing,Upset stomach,7
+Coughing,Dyspnea,12
+Coughing,Breathing abnormally deep,5
+Coughing,Cough with fever,6
+Coughing,Feeling bad emotionally,9
+Coughing,Charmed,2
+Coughing,Sleeplessness,3
+Coughing,Syncope,4
+Coughing,Whooping respiration,9
+Coughing,Shoulder pain,2
+Coughing,Heartburn,46
+Coughing,Absence of sensation,6
+Coughing,Shallow breathing,2
+Coughing,Lightheadedness,3
+Coughing,Arthralgia,6
+Coughing,Cold sweat,2
+Coughing,Dull pain,7
+Coughing,Welts,9
+Coughing,Gasping for breath,9
+Coughing,Spasm,8
+Coughing,Eructation,11
+Coughing,Blotch,2
+Coughing,Hot flushes,4
+Coughing,Rhinorrhea,12
+Coughing,Congestion of throat,7
+Coughing,Lump in throat,6
+Coughing,Vertigo,3
+Coughing,Diarrhea and vomiting,4
+Coughing,Swollen lip,2
+Coughing,Blood in stool,2
+Coughing,Chest discomfort,2
+Coughing,Back pain,11
+Coughing,Night sweats,13
+Coughing,Odynophagia,2
+Coughing,Chest tightness,5
+Coughing,Headache,4
+Coughing,Breathing pain,4
+Coughing,Chronic cough,4
+Coughing,Hip pain,2
+Coughing,Hip joint pain,2
+Coughing,Angina pectoris,2
+Coughing,Sciatica,2
+Coughing,Bone pain,2
+Coughing,Side pain,3
+Hunger,Pain,10
+Hunger,Ache,4
+Hunger,Weakness,6
+Hunger,Discomfort,3
+Hunger,Flare,2
+Hunger,Feeling sick,5
+Hunger,Nausea,15
+Hunger,Muscle cramp,2
+Hunger,Diarrhea,5
+Hunger,Tremor,7
+Hunger,Vomiting,7
+Hunger,Upset stomach,2
+Hunger,Feeling bad emotionally,6
+Hunger,Sick to stomach,4
+Hunger,Heartburn,3
+Hunger,Dull pain,3
+Hunger,Hunger pangs,3
+Flatulence,Pain,39
+Flatulence,Ache,8
+Flatulence,Neck pain,2
+Flatulence,Weakness,8
+Flatulence,Discomfort,9
+Flatulence,Flare,2
+Flatulence,Chest pain,4
+Flatulence,Feeling sick,4
+Flatulence,Nausea,13
+Flatulence,Sighing,2
+Flatulence,Muscle cramp,6
+Flatulence,Sore to touch,4
+Flatulence,Stomach ache,5
+Flatulence,Sharp pain,3
+Flatulence,Abdominal pain,4
+Flatulence,Diarrhea,12
+Flatulence,Flushing,6
+Flatulence,Tremor,4
+Flatulence,Vomiting,10
+Flatulence,Dyspnea,2
+Flatulence,Breathing abnormally deep,3
+Flatulence,Feeling bad emotionally,11
+Flatulence,Sick to stomach,2
+Flatulence,Syncope,5
+Flatulence,Heartburn,9
+Flatulence,Absence of sensation,2
+Flatulence,Lightheadedness,2
+Flatulence,Arthralgia,3
+Flatulence,Dull pain,5
+Flatulence,Agitation,2
+Flatulence,Restlessness,2
+Flatulence,Eructation,9
+Flatulence,Hot flushes,3
+Flatulence,Blood in stool,2
+Flatulence,Back pain,4
+Flatulence,Night sweats,3
+Flatulence,Low back pain,3
+Flatulence,Groin pain,2
+Flatulence,Night pain,3
+Pain,Ache,166
+Pain,Neck pain,31
+Pain,Weakness,120
+Pain,Discomfort,143
+Pain,Flare,69
+Pain,Chest pain,84
+Pain,Feeling sick,37
+Pain,Nausea,237
+Pain,Feeling despair,8
+Pain,Sighing,14
+Pain,Muscle cramp,187
+Pain,Sore to touch,140
+Pain,Chills,27
+Pain,Pain in right arm,2
+Pain,Fever chills,2
+Pain,Sore throat,35
+Pain,Stomach ache,114
+Pain,Sharp pain,77
+Pain,Abdominal pain,100
+Pain,Diarrhea,138
+Pain,Heart symptoms,4
+Pain,Breath symptom,6
+Pain,Exanthema,60
+Pain,Flushing,40
+Pain,Tremor,56
+Pain,Slight fever,2
+Pain,Vomiting,131
+Pain,Pain in testicle,4
+Pain,Upset stomach,29
+Pain,Rigor - temperature-associated observation,2
+Pain,Muscle rigidity,8
+Pain,Dyspnea,23
+Pain,Breathing abnormally deep,18
+Pain,Cough with fever,2
+Pain,Blackout,2
+Pain,Feeling bad emotionally,45
+Pain,Charmed,9
+Pain,Anal pain,16
+Pain,Sleeplessness,31
+Pain,Sick to stomach,14
+Pain,Syncope,43
+Pain,Weight problem,2
+Pain,Whooping respiration,7
+Pain,Sore back,7
+Pain,Shoulder pain,17
+Pain,Glare - eye symptom,2
+Pain,Heartburn,112
+Pain,Mastodynia,17
+Pain,Breast tenderness,13
+Pain,Recurrent muscle twitches,8
+Pain,Absence of sensation,30
+Pain,Shoulder blade pain,6
+Pain,Shallow breathing,2
+Pain,Feeling cold,9
+Pain,Heart problem,14
+Pain,Lightheadedness,19
+Pain,Arthralgia,37
+Pain,Chronic pain,30
+Pain,Mouth swelling,2
+Pain,Cold sweat,8
+Pain,Dull pain,97
+Pain,Agitation,9
+Pain,Restlessness,9
+Pain,Buckling,2
+Pain,Joint stiffness,2
+Pain,Welts,30
+Pain,Gasping for breath,4
+Pain,Spasm,53
+Pain,Skin symptoms,5
+Pain,Eructation,59
+Pain,Blotch,3
+Pain,Hot flushes,34
+Pain,Neuralgia,10
+Pain,Rhinorrhea,6
+Pain,Congestion of throat,10
+Pain,Lump in throat,13
+Pain,Neck stiffness,13
+Pain,Vertigo,12
+Pain,Diarrhea and vomiting,13
+Pain,Itch burning,10
+Pain,Burning feet,6
+Pain,Swollen lip,5
+Pain,Oral pain,8
+Pain,Apnea,2
+Pain,Renal pain,10
+Pain,Blood in stool,31
+Pain,Chest discomfort,4
+Pain,Back pain,133
+Pain,Facial pain,6
+Pain,Back symptoms,3
+Pain,Night sweats,23
+Pain,Cardiac pain,12
+Pain,Pain of skin,5
+Pain,Earache,4
+Pain,Feces color: tarry,2
+Pain,Knee pain,15
+Pain,Phantosmia,2
+Pain,Retching,2
+Pain,Odynophagia,2
+Pain,Sharp chest pain,2
+Pain,Back discomfort,2
+Pain,Leg cramps,7
+Pain,Pain in lower limb,15
+Pain,Foot pain,5
+Pain,Finger pain,2
+Pain,Ear buzzing,2
+Pain,Dystonia,2
+Pain,Chest tightness,9
+Pain,Difficulty sleeping,4
+Pain,Headache,11
+Pain,Breathing pain,10
+Pain,Hyperalgesia,2
+Pain,Pruritus ani,8
+Pain,Low back pain,42
+Pain,Rectal pain,13
+Pain,Hip pain,13
+Pain,Pelvic pain,42
+Pain,Pelvic pain female,46
+Pain,Hip joint pain,13
+Pain,Anal discomfort,2
+Pain,Arm pain,5
+Pain,Groin pain,12
+Pain,Angina pectoris,3
+Pain,Jaw pain,6
+Pain,Sciatica,12
+Pain,Deep pain,5
+Pain,Bone pain,10
+Pain,Feeling faint,2
+Pain,Muscle spasticity,3
+Pain,Petechiae of skin,2
+Pain,Rib pain,5
+Pain,Unspecified visual loss,2
+Pain,Bladder symptoms,7
+Pain,Nausea chronic,2
+Pain,Left sided chest pain,2
+Pain,Night pain,17
+Pain,Left flank pain,2
+Pain,Eye pain,12
+Pain,Breast pain female,11
+Pain,Thigh pain,8
+Pain,Thigh cramps,2
+Pain,Ear popping,2
+Pain,Side pain,18
+Pain,Pain in left arm,2
+Pain,Cancer pain,5
+Pain,Lumps behind ears,2
+Pain,Lump on hand,2
+Pain,Chronic back pain,4
+Pain,Liver pain,19
+Pain,Sitting pain,6
+Pain,Forearm pain,2
+Pain,Pubic pain,2
+Pain,Icterus,5
+Pain,Yellow complexion,5
+Pain,Kidney problem,8
+Pain,Right upper quadrant pain,19
+Pain,Bladder pain,8
+Pain,Painful rt shoulder,5
+Pain,Hunger pangs,4
+Pain,Renal colic,5
+Pain,Hernia pain,3
+Pain,Left lower quadrant pain,4
+Pain,Lump on leg,2
+Pain,Chronic pelvic pain,2
+Pain,Feeling of loss of feeling,8
+Pain,Lower abdominal pain,2
+Pain,Upper abdominal pain,7
+Pain,Swelling of the neck,3
+Pain,Pain in left leg,2
+Pain,Gastric spasm (disorder),2
+Pain,Groin discomfort,2
+Pain,Flank pain,3
+Pain,Back pain mid back,4
+Pain,Right lower quadrant pain,2
+Pain,Spine pain,2
+Pain,Right sided abdominal pain,2
+Pain,Infantile colic,6
+Pain,Ovarian pain,2
+Pain,Labor pain,2
+Pain,Rest pain,3
+Pain,Stomach dull pain of,2
+Ache,Neck pain,16
+Ache,Weakness,34
+Ache,Discomfort,19
+Ache,Flare,17
+Ache,Chest pain,20
+Ache,Feeling sick,14
+Ache,Nausea,52
+Ache,Feeling despair,2
+Ache,Muscle cramp,47
+Ache,Sore to touch,38
+Ache,Chills,13
+Ache,Sore throat,12
+Ache,Stomach ache,22
+Ache,Sharp pain,13
+Ache,Abdominal pain,19
+Ache,Diarrhea,29
+Ache,Exanthema,27
+Ache,Flushing,9
+Ache,Tremor,18
+Ache,Vomiting,25
+Ache,Upset stomach,5
+Ache,Dyspnea,4
+Ache,Breathing abnormally deep,4
+Ache,Blackout,2
+Ache,Snoring,2
+Ache,Feeling bad emotionally,14
+Ache,Anal pain,4
+Ache,Sleeplessness,8
+Ache,Sick to stomach,3
+Ache,Syncope,9
+Ache,Sore back,2
+Ache,Heartburn,22
+Ache,Mastodynia,2
+Ache,Breast tenderness,3
+Ache,Absence of sensation,4
+Ache,Shoulder blade pain,2
+Ache,Feeling cold,3
+Ache,Heart problem,2
+Ache,Lightheadedness,4
+Ache,Arthralgia,17
+Ache,Chronic pain,7
+Ache,Dull pain,52
+Ache,Agitation,2
+Ache,Restlessness,2
+Ache,Joint stiffness,2
+Ache,Welts,11
+Ache,Spasm,19
+Ache,Eructation,10
+Ache,Hot flushes,7
+Ache,Neuralgia,2
+Ache,Congestion of throat,2
+Ache,Lump in throat,4
+Ache,Neck stiffness,8
+Ache,Vertigo,6
+Ache,Diarrhea and vomiting,2
+Ache,Burning feet,3
+Ache,Swollen lip,2
+Ache,Oral pain,2
+Ache,Blood in stool,7
+Ache,Back pain,31
+Ache,Night sweats,12
+Ache,Knee pain,4
+Ache,Pain in lower limb,6
+Ache,Foot pain,2
+Ache,Difficulty sleeping,2
+Ache,Headache,2
+Ache,Low back pain,13
+Ache,Rectal pain,4
+Ache,Hip pain,3
+Ache,Pelvic pain,6
+Ache,Pelvic pain female,6
+Ache,Hip joint pain,3
+Ache,Groin pain,2
+Ache,Sciatica,3
+Ache,Bone pain,2
+Ache,Rib pain,3
+Ache,Bladder symptoms,2
+Ache,Night pain,7
+Ache,Left flank pain,2
+Ache,Eye pain,5
+Ache,Thigh pain,2
+Ache,Pain neck/shoulder,2
+Ache,Liver pain,4
+Ache,Sitting pain,2
+Ache,Forearm pain,2
+Ache,Kidney problem,2
+Ache,Right upper quadrant pain,2
+Ache,Bladder pain,2
+Ache,Painful rt shoulder,2
+Ache,Hunger pangs,2
+Ache,Flank pain,2
+Ache,Spine pain,2
+Ache,Infantile colic,3
+Neck pain,Weakness,3
+Neck pain,Discomfort,2
+Neck pain,Chest pain,3
+Neck pain,Nausea,6
+Neck pain,Sore to touch,7
+Neck pain,Sore throat,2
+Neck pain,Sharp pain,3
+Neck pain,Diarrhea,3
+Neck pain,Exanthema,2
+Neck pain,Vomiting,3
+Neck pain,Feeling bad emotionally,3
+Neck pain,Sleeplessness,3
+Neck pain,Syncope,2
+Neck pain,Sore back,2
+Neck pain,Heartburn,3
+Neck pain,Arthralgia,2
+Neck pain,Chronic pain,2
+Neck pain,Dull pain,4
+Neck pain,Welts,3
+Neck pain,Hot flushes,2
+Neck pain,Neck stiffness,2
+Neck pain,Back pain,7
+Weakness,Discomfort,13
+Weakness,Flare,13
+Weakness,Chest pain,17
+Weakness,Feeling sick,13
+Weakness,Nausea,49
+Weakness,Sighing,2
+Weakness,Muscle cramp,23
+Weakness,Sore to touch,12
+Weakness,Chills,7
+Weakness,Sore throat,6
+Weakness,Stomach ache,9
+Weakness,Sharp pain,3
+Weakness,Abdominal pain,8
+Weakness,Diarrhea,17
+Weakness,Exanthema,11
+Weakness,Flushing,7
+Weakness,Tremor,25
+Weakness,Vomiting,16
+Weakness,Pain in testicle,2
+Weakness,Upset stomach,5
+Weakness,Rigor - temperature-associated observation,2
+Weakness,Muscle rigidity,3
+Weakness,Dyspnea,6
+Weakness,Breathing abnormally deep,3
+Weakness,Feeling bad emotionally,16
+Weakness,Charmed,2
+Weakness,Sleeplessness,11
+Weakness,Sick to stomach,4
+Weakness,Syncope,24
+Weakness,Sore back,2
+Weakness,Shoulder pain,5
+Weakness,Heartburn,30
+Weakness,Mastodynia,4
+Weakness,Breast tenderness,2
+Weakness,Recurrent muscle twitches,2
+Weakness,Absence of sensation,7
+Weakness,Feeling cold,5
+Weakness,Heart problem,5
+Weakness,Lightheadedness,15
+Weakness,Arthralgia,13
+Weakness,Chronic pain,2
+Weakness,Cold sweat,2
+Weakness,Dull pain,10
+Weakness,Agitation,2
+Weakness,Restlessness,2
+Weakness,Buckling,3
+Weakness,Welts,9
+Weakness,Spasm,9
+Weakness,Eructation,6
+Weakness,Hot flushes,12
+Weakness,Lump in throat,2
+Weakness,Neck stiffness,4
+Weakness,Vertigo,8
+Weakness,Itch burning,2
+Weakness,Burning feet,6
+Weakness,Shaking of hands,2
+Weakness,Blood in stool,4
+Weakness,Back pain,17
+Weakness,Night sweats,5
+Weakness,Foot pain,2
+Weakness,Chest tightness,4
+Weakness,Headache,3
+Weakness,Pruritus ani,2
+Weakness,Low back pain,4
+Weakness,Pelvic pain,2
+Weakness,Pelvic pain female,4
+Weakness,Arm pain,2
+Weakness,Jaw pain,2
+Weakness,Bone pain,2
+Weakness,Feeling faint,2
+Weakness,Unspecified visual loss,3
+Weakness,Night pain,2
+Weakness,Hand pain,2
+Weakness,Eye pain,2
+Weakness,Breast pain female,2
+Weakness,Thigh pain,2
+Weakness,Liver pain,3
+Weakness,Kidney problem,3
+Weakness,Cachexia,2
+Discomfort,Flare,20
+Discomfort,Chest pain,16
+Discomfort,Feeling sick,6
+Discomfort,Nausea,42
+Discomfort,Sighing,4
+Discomfort,Muscle cramp,26
+Discomfort,Sore to touch,18
+Discomfort,Chills,2
+Discomfort,Sore throat,9
+Discomfort,Stomach ache,18
+Discomfort,Sharp pain,12
+Discomfort,Abdominal pain,17
+Discomfort,Diarrhea,28
+Discomfort,Exanthema,8
+Discomfort,Flushing,5
+Discomfort,Tremor,11
+Discomfort,Redness of eye,2
+Discomfort,Vomiting,20
+Discomfort,Upset stomach,9
+Discomfort,Muscle rigidity,2
+Discomfort,Dyspnea,5
+Discomfort,Breathing abnormally deep,3
+Discomfort,Feeling bad emotionally,7
+Discomfort,Anal pain,3
+Discomfort,Sleeplessness,3
+Discomfort,Sick to stomach,2
+Discomfort,Syncope,7
+Discomfort,Shoulder pain,2
+Discomfort,Heartburn,24
+Discomfort,Absence of sensation,9
+Discomfort,Heart problem,3
+Discomfort,Lightheadedness,2
+Discomfort,Arthralgia,7
+Discomfort,Chronic pain,2
+Discomfort,Dull pain,12
+Discomfort,Welts,7
+Discomfort,Gasping for breath,2
+Discomfort,Spasm,6
+Discomfort,Eructation,20
+Discomfort,Blotch,2
+Discomfort,Hot flushes,8
+Discomfort,Lump in throat,2
+Discomfort,Diarrhea and vomiting,3
+Discomfort,Itch burning,5
+Discomfort,Renal pain,4
+Discomfort,Blood in stool,7
+Discomfort,Chest discomfort,6
+Discomfort,Back pain,16
+Discomfort,Night sweats,3
+Discomfort,Leg cramps,2
+Discomfort,Pain in lower limb,2
+Discomfort,Foot pain,2
+Discomfort,Chest tightness,2
+Discomfort,Headache,2
+Discomfort,Pruritus ani,3
+Discomfort,Low back pain,5
+Discomfort,Rectal pain,3
+Discomfort,Pelvic pain,4
+Discomfort,Pelvic pain female,5
+Discomfort,Sciatica,2
+Discomfort,Bladder symptoms,2
+Discomfort,Side pain,3
+Discomfort,Liver pain,4
+Discomfort,Icterus,2
+Discomfort,Yellow complexion,2
+Discomfort,Right upper quadrant pain,3
+Discomfort,Bladder pain,2
+Discomfort,Lower abdominal pain,2
+Flare,Chest pain,9
+Flare,Feeling sick,5
+Flare,Nausea,19
+Flare,Muscle cramp,12
+Flare,Sore to touch,7
+Flare,Chills,5
+Flare,Sore throat,6
+Flare,Stomach ache,8
+Flare,Abdominal pain,8
+Flare,Diarrhea,14
+Flare,Exanthema,12
+Flare,Flushing,4
+Flare,Tremor,8
+Flare,Vomiting,4
+Flare,Upset stomach,3
+Flare,Dyspnea,4
+Flare,Breathing abnormally deep,2
+Flare,Feeling bad emotionally,4
+Flare,Sleeplessness,4
+Flare,Syncope,6
+Flare,Shoulder pain,3
+Flare,Heartburn,13
+Flare,Absence of sensation,3
+Flare,Heart problem,2
+Flare,Lightheadedness,2
+Flare,Arthralgia,10
+Flare,Dull pain,4
+Flare,Welts,9
+Flare,Gasping for breath,2
+Flare,Spasm,5
+Flare,Eructation,12
+Flare,Hot flushes,2
+Flare,Rhinorrhea,2
+Flare,Congestion of throat,2
+Flare,Lump in throat,2
+Flare,Itch burning,2
+Flare,Burning feet,2
+Flare,Blood in stool,5
+Flare,Back pain,8
+Flare,Night sweats,2
+Flare,Pain of skin,2
+Flare,Knee pain,4
+Flare,Leg cramps,2
+Flare,Pain in lower limb,2
+Flare,Chest tightness,2
+Flare,Headache,3
+Flare,Jaw pain,2
+Flare,Bladder pain,2
+Flare,Rest pain,2
+Chest pain,Feeling sick,5
+Chest pain,Nausea,30
+Chest pain,Muscle cramp,16
+Chest pain,Sore to touch,17
+Chest pain,Chills,5
+Chest pain,Sore throat,5
+Chest pain,Stomach ache,19
+Chest pain,Sharp pain,7
+Chest pain,Abdominal pain,19
+Chest pain,Diarrhea,11
+Chest pain,Exanthema,4
+Chest pain,Flushing,7
+Chest pain,Tremor,11
+Chest pain,Vomiting,13
+Chest pain,Upset stomach,3
+Chest pain,Dyspnea,11
+Chest pain,Feeling bad emotionally,4
+Chest pain,Sleeplessness,5
+Chest pain,Sick to stomach,2
+Chest pain,Syncope,12
+Chest pain,Shoulder pain,9
+Chest pain,Heartburn,30
+Chest pain,Mastodynia,2
+Chest pain,Absence of sensation,2
+Chest pain,Heart problem,8
+Chest pain,Lightheadedness,7
+Chest pain,Arthralgia,5
+Chest pain,Cold sweat,3
+Chest pain,Dull pain,11
+Chest pain,Agitation,2
+Chest pain,Restlessness,2
+Chest pain,Welts,4
+Chest pain,Gasping for breath,2
+Chest pain,Spasm,9
+Chest pain,Eructation,19
+Chest pain,Blotch,3
+Chest pain,Hot flushes,8
+Chest pain,Lump in throat,2
+Chest pain,Right sided chest pain,3
+Chest pain,Neck stiffness,4
+Chest pain,Vertigo,4
+Chest pain,Blood in stool,2
+Chest pain,Chest discomfort,2
+Chest pain,Back pain,19
+Chest pain,Night sweats,4
+Chest pain,Cardiac pain,9
+Chest pain,Sharp chest pain,3
+Chest pain,Chest tightness,3
+Chest pain,Headache,3
+Chest pain,Breathing pain,3
+Chest pain,Low back pain,2
+Chest pain,Hip pain,2
+Chest pain,Hip joint pain,2
+Chest pain,Arm pain,4
+Chest pain,Angina pectoris,4
+Chest pain,Jaw pain,3
+Chest pain,Chest burning,2
+Chest pain,Bone pain,3
+Chest pain,Feeling faint,2
+Chest pain,Night pain,3
+Chest pain,Breast pain female,2
+Chest pain,Pain in left arm,2
+Chest pain,Palpitations - fluttering,2
+Chest pain,Myalgia,2
+Feeling sick,Nausea,98
+Feeling sick,Muscle cramp,8
+Feeling sick,Sore to touch,8
+Feeling sick,Stomach ache,12
+Feeling sick,Sharp pain,3
+Feeling sick,Abdominal pain,10
+Feeling sick,Diarrhea,11
+Feeling sick,Exanthema,3
+Feeling sick,Flushing,4
+Feeling sick,Tremor,8
+Feeling sick,Vomiting,15
+Feeling sick,Upset stomach,2
+Feeling sick,Feeling bad emotionally,3
+Feeling sick,Sleeplessness,4
+Feeling sick,Sick to stomach,16
+Feeling sick,Syncope,2
+Feeling sick,Heartburn,6
+Feeling sick,Absence of sensation,2
+Feeling sick,Feeling cold,2
+Feeling sick,Heart problem,2
+Feeling sick,Lightheadedness,2
+Feeling sick,Arthralgia,6
+Feeling sick,Dull pain,3
+Feeling sick,Welts,3
+Feeling sick,Spasm,2
+Feeling sick,Eructation,4
+Feeling sick,Hot flushes,4
+Feeling sick,Diarrhea and vomiting,2
+Feeling sick,Blood in stool,3
+Feeling sick,Back pain,11
+Feeling sick,Night sweats,2
+Feeling sick,Liver pain,2
+Feeling sick,Icterus,2
+Feeling sick,Yellow complexion,2
+Feeling sick,Kidney problem,2
+Feeling sick,Right upper quadrant pain,2
+Nausea,Sighing,2
+Nausea,Muscle cramp,69
+Nausea,Sore to touch,28
+Nausea,Chills,19
+Nausea,Sore throat,9
+Nausea,Stomach ache,40
+Nausea,Sharp pain,15
+Nausea,Abdominal pain,38
+Nausea,Diarrhea,67
+Nausea,Exanthema,26
+Nausea,Flushing,20
+Nausea,Tremor,37
+Nausea,Vomiting,115
+Nausea,Upset stomach,20
+Nausea,Muscle rigidity,2
+Nausea,Dyspnea,5
+Nausea,Breathing abnormally deep,4
+Nausea,Feeling bad emotionally,16
+Nausea,Anal pain,2
+Nausea,Sleeplessness,17
+Nausea,Sick to stomach,20
+Nausea,Syncope,22
+Nausea,Weight problem,2
+Nausea,Shoulder pain,2
+Nausea,Heartburn,55
+Nausea,Mastodynia,8
+Nausea,Breast tenderness,3
+Nausea,Recurrent muscle twitches,2
+Nausea,Absence of sensation,7
+Nausea,Shoulder blade pain,2
+Nausea,Feeling cold,5
+Nausea,Heart problem,4
+Nausea,Lightheadedness,9
+Nausea,Arthralgia,17
+Nausea,Chronic pain,5
+Nausea,Cold sweat,5
+Nausea,Dull pain,16
+Nausea,Agitation,4
+Nausea,Restlessness,4
+Nausea,Welts,16
+Nausea,Spasm,17
+Nausea,Skin symptoms,2
+Nausea,Eructation,29
+Nausea,Hot flushes,13
+Nausea,Neuralgia,2
+Nausea,Rhinorrhea,2
+Nausea,Congestion of throat,3
+Nausea,Lump in throat,2
+Nausea,Neck stiffness,3
+Nausea,Vertigo,8
+Nausea,Diarrhea and vomiting,12
+Nausea,Burning feet,2
+Nausea,Shaking of hands,2
+Nausea,Swollen lip,2
+Nausea,Sour stomach,2
+Nausea,Renal pain,4
+Nausea,Blood in stool,10
+Nausea,Back pain,36
+Nausea,Facial pain,3
+Nausea,Night sweats,5
+Nausea,Cardiac pain,3
+Nausea,Retching,2
+Nausea,Pain in lower limb,2
+Nausea,Chest tightness,3
+Nausea,Headache,4
+Nausea,Breathing pain,2
+Nausea,Low back pain,8
+Nausea,Rectal pain,2
+Nausea,Pelvic pain,10
+Nausea,Pelvic pain female,11
+Nausea,Groin pain,2
+Nausea,Sciatica,2
+Nausea,Teeth chattering,2
+Nausea,Feeling faint,2
+Nausea,Muscle spasticity,2
+Nausea,Rib pain,3
+Nausea,Unspecified visual loss,3
+Nausea,Gastrointestinal pain,2
+Nausea,Bladder symptoms,3
+Nausea,Nausea chronic,6
+Nausea,Night pain,2
+Nausea,Eye pain,2
+Nausea,Breast pain female,3
+Nausea,Side pain,5
+Nausea,Chronic back pain,2
+Nausea,Liver pain,6
+Nausea,Icterus,3
+Nausea,Yellow complexion,3
+Nausea,Kidney problem,3
+Nausea,Right upper quadrant pain,9
+Nausea,Bladder pain,2
+Nausea,Painful rt shoulder,2
+Nausea,Hunger pangs,3
+Nausea,Renal colic,3
+Nausea,Lower abdominal pain,2
+Nausea,Upper abdominal pain,4
+Nausea,Groin discomfort,2
+Nausea,Flank pain,3
+Nausea,Back pain mid back,2
+Nausea,Infantile colic,4
+Feeling despair,Arthralgia,2
+Sighing,Muscle cramp,4
+Sighing,Vomiting,3
+Sighing,Charmed,2
+Sighing,Syncope,2
+Sighing,Heartburn,4
+Sighing,Hot flushes,2
+Sighing,Back pain,3
+Muscle cramp,Sore to touch,31
+Muscle cramp,Chills,8
+Muscle cramp,Stomach ache,21
+Muscle cramp,Sharp pain,22
+Muscle cramp,Abdominal pain,19
+Muscle cramp,Diarrhea,40
+Muscle cramp,Exanthema,11
+Muscle cramp,Flushing,8
+Muscle cramp,Tremor,18
+Muscle cramp,Vomiting,34
+Muscle cramp,Upset stomach,11
+Muscle cramp,Dyspnea,2
+Muscle cramp,Feeling bad emotionally,6
+Muscle cramp,Anal pain,5
+Muscle cramp,Sleeplessness,5
+Muscle cramp,Sick to stomach,2
+Muscle cramp,Syncope,11
+Muscle cramp,Weight problem,2
+Muscle cramp,Whooping respiration,2
+Muscle cramp,Sore back,3
+Muscle cramp,Shoulder pain,4
+Muscle cramp,Heartburn,27
+Muscle cramp,Mastodynia,6
+Muscle cramp,Breast tenderness,6
+Muscle cramp,Absence of sensation,2
+Muscle cramp,Heart problem,2
+Muscle cramp,Lightheadedness,3
+Muscle cramp,Arthralgia,8
+Muscle cramp,Chronic pain,5
+Muscle cramp,Cold sweat,2
+Muscle cramp,Dull pain,10
+Muscle cramp,Agitation,3
+Muscle cramp,Restlessness,3
+Muscle cramp,Gasping for breath,3
+Muscle cramp,Spasm,93
+Muscle cramp,Eructation,12
+Muscle cramp,Hot flushes,13
+Muscle cramp,Neuralgia,2
+Muscle cramp,Rhinorrhea,2
+Muscle cramp,Lump in throat,2
+Muscle cramp,Neck stiffness,3
+Muscle cramp,Vertigo,6
+Muscle cramp,Diarrhea and vomiting,3
+Muscle cramp,Burning feet,5
+Muscle cramp,Renal pain,2
+Muscle cramp,Blood in stool,7
+Muscle cramp,Back pain,34
+Muscle cramp,Back symptoms,2
+Muscle cramp,Night sweats,7
+Muscle cramp,Cardiac pain,3
+Muscle cramp,Feces color: tarry,2
+Muscle cramp,Knee pain,3
+Muscle cramp,Leg cramps,2
+Muscle cramp,Pain in lower limb,8
+Muscle cramp,Dystonia,2
+Muscle cramp,Difficulty sleeping,2
+Muscle cramp,Headache,2
+Muscle cramp,Breathing pain,3
+Muscle cramp,Pruritus ani,2
+Muscle cramp,Low back pain,15
+Muscle cramp,Rectal pain,3
+Muscle cramp,Pelvic pain,11
+Muscle cramp,Pelvic pain female,11
+Muscle cramp,Groin pain,2
+Muscle cramp,Jaw pain,2
+Muscle cramp,Sciatica,2
+Muscle cramp,Head tremor,2
+Muscle cramp,Bladder symptoms,2
+Muscle cramp,Night pain,6
+Muscle cramp,Eye pain,2
+Muscle cramp,Breast pain female,2
+Muscle cramp,Thigh pain,2
+Muscle cramp,Thigh cramps,2
+Muscle cramp,Side pain,4
+Muscle cramp,Kidney problem,5
+Muscle cramp,Right upper quadrant pain,3
+Muscle cramp,Bladder pain,5
+Muscle cramp,Hunger pangs,3
+Muscle cramp,Renal colic,2
+Muscle cramp,Left lower quadrant pain,2
+Muscle cramp,Lump on leg,2
+Muscle cramp,Upper abdominal pain,2
+Muscle cramp,Infantile colic,2
+Muscle cramp,Bladder spasm,2
+Sore to touch,Chills,4
+Sore to touch,Sore throat,12
+Sore to touch,Stomach ache,15
+Sore to touch,Sharp pain,11
+Sore to touch,Abdominal pain,14
+Sore to touch,Diarrhea,15
+Sore to touch,Exanthema,16
+Sore to touch,Flushing,9
+Sore to touch,Tremor,5
+Sore to touch,Vomiting,8
+Sore to touch,Upset stomach,5
+Sore to touch,Breathing abnormally deep,2
+Sore to touch,Feeling bad emotionally,6
+Sore to touch,Anal pain,3
+Sore to touch,Sick to stomach,4
+Sore to touch,Syncope,6
+Sore to touch,Sore back,4
+Sore to touch,Shoulder pain,4
+Sore to touch,Heartburn,17
+Sore to touch,Mastodynia,8
+Sore to touch,Breast tenderness,6
+Sore to touch,Absence of sensation,2
+Sore to touch,Shoulder blade pain,2
+Sore to touch,Heart problem,2
+Sore to touch,Arthralgia,4
+Sore to touch,Chronic pain,2
+Sore to touch,Cold sweat,2
+Sore to touch,Dull pain,14
+Sore to touch,Welts,9
+Sore to touch,Spasm,9
+Sore to touch,Eructation,10
+Sore to touch,Blotch,2
+Sore to touch,Hot flushes,7
+Sore to touch,Neuralgia,3
+Sore to touch,Rhinorrhea,2
+Sore to touch,Congestion of throat,2
+Sore to touch,Lump in throat,3
+Sore to touch,Neck stiffness,3
+Sore to touch,Diarrhea and vomiting,3
+Sore to touch,Itch burning,2
+Sore to touch,Swollen lip,3
+Sore to touch,Oral pain,4
+Sore to touch,Blood in stool,2
+Sore to touch,Back pain,21
+Sore to touch,Night sweats,6
+Sore to touch,Cardiac pain,2
+Sore to touch,Earache,2
+Sore to touch,Knee pain,2
+Sore to touch,Odynophagia,2
+Sore to touch,Pruritus ani,2
+Sore to touch,Low back pain,8
+Sore to touch,Rectal pain,2
+Sore to touch,Arm pain,2
+Sore to touch,Teeth chattering,2
+Sore to touch,Bone pain,2
+Sore to touch,Rib pain,2
+Sore to touch,Night pain,3
+Sore to touch,Eye pain,3
+Sore to touch,Breast pain female,5
+Sore to touch,Side pain,3
+Sore to touch,Tenderness of gums,2
+Sore to touch,Inguinal mass,2
+Chills,Sore throat,8
+Chills,Stomach ache,2
+Chills,Sharp pain,2
+Chills,Abdominal pain,2
+Chills,Diarrhea,10
+Chills,Exanthema,5
+Chills,Tremor,3
+Chills,Vomiting,9
+Chills,Feeling bad emotionally,2
+Chills,Sleeplessness,4
+Chills,Syncope,2
+Chills,Shoulder pain,4
+Chills,Heartburn,4
+Chills,Lightheadedness,2
+Chills,Dull pain,6
+Chills,Welts,3
+Chills,Spasm,2
+Chills,Eructation,4
+Chills,Hot flushes,3
+Chills,Neck stiffness,2
+Chills,Diarrhea and vomiting,2
+Chills,Itch burning,2
+Chills,Back pain,4
+Chills,Night sweats,3
+Chills,Fever with rash,2
+Sore throat,Stomach ache,5
+Sore throat,Sharp pain,5
+Sore throat,Abdominal pain,5
+Sore throat,Diarrhea,6
+Sore throat,Exanthema,7
+Sore throat,Tremor,6
+Sore throat,Vomiting,4
+Sore throat,Upset stomach,2
+Sore throat,Dyspnea,4
+Sore throat,Cough with fever,3
+Sore throat,Heartburn,21
+Sore throat,Absence of sensation,2
+Sore throat,Arthralgia,5
+Sore throat,Mouth swelling,3
+Sore throat,Dull pain,4
+Sore throat,Welts,5
+Sore throat,Eructation,7
+Sore throat,Hot flushes,4
+Sore throat,Rhinorrhea,3
+Sore throat,Congestion of throat,4
+Sore throat,Lump in throat,8
+Sore throat,Blood in stool,2
+Sore throat,Back pain,6
+Sore throat,Night sweats,3
+Sore throat,Earache,2
+Sore throat,Odynophagia,3
+Sore throat,Headache,2
+Sore throat,Breathing pain,3
+Sore throat,Low back pain,2
+Sore throat,Side pain,2
+Stomach ache,Sharp pain,14
+Stomach ache,Abdominal pain,141
+Stomach ache,Diarrhea,31
+Stomach ache,Exanthema,5
+Stomach ache,Flushing,10
+Stomach ache,Tremor,9
+Stomach ache,Vomiting,26
+Stomach ache,Upset stomach,7
+Stomach ache,Dyspnea,3
+Stomach ache,Breathing abnormally deep,2
+Stomach ache,Feeling bad emotionally,7
+Stomach ache,Anal pain,2
+Stomach ache,Sleeplessness,3
+Stomach ache,Sick to stomach,6
+Stomach ache,Syncope,5
+Stomach ache,Shoulder pain,6
+Stomach ache,Heartburn,29
+Stomach ache,Mastodynia,2
+Stomach ache,Absence of sensation,2
+Stomach ache,Heart problem,5
+Stomach ache,Arthralgia,5
+Stomach ache,Dull pain,13
+Stomach ache,Welts,4
+Stomach ache,Spasm,6
+Stomach ache,Eructation,24
+Stomach ache,Hot flushes,3
+Stomach ache,Congestion of throat,2
+Stomach ache,Neck stiffness,3
+Stomach ache,Blood in stool,4
+Stomach ache,Back pain,19
+Stomach ache,Cardiac pain,2
+Stomach ache,Leg cramps,2
+Stomach ache,Low back pain,9
+Stomach ache,Rectal pain,2
+Stomach ache,Hip pain,2
+Stomach ache,Pelvic pain,2
+Stomach ache,Pelvic pain female,2
+Stomach ache,Hip joint pain,2
+Stomach ache,Arm pain,3
+Stomach ache,Groin pain,2
+Stomach ache,Jaw pain,2
+Stomach ache,Sciatica,2
+Stomach ache,Night pain,2
+Stomach ache,Breast pain female,2
+Stomach ache,Thigh pain,2
+Stomach ache,Side pain,4
+Stomach ache,Liver pain,2
+Stomach ache,Icterus,3
+Stomach ache,Yellow complexion,3
+Stomach ache,Right sided abdominal pain,2
+Sharp pain,Abdominal pain,11
+Sharp pain,Diarrhea,9
+Sharp pain,Exanthema,2
+Sharp pain,Flushing,2
+Sharp pain,Tremor,3
+Sharp pain,Vomiting,7
+Sharp pain,Upset stomach,2
+Sharp pain,Dyspnea,3
+Sharp pain,Feeling bad emotionally,2
+Sharp pain,Anal pain,3
+Sharp pain,Sleeplessness,2
+Sharp pain,Syncope,2
+Sharp pain,Heartburn,8
+Sharp pain,Absence of sensation,3
+Sharp pain,Lightheadedness,2
+Sharp pain,Chronic pain,2
+Sharp pain,Dull pain,14
+Sharp pain,Spasm,5
+Sharp pain,Eructation,10
+Sharp pain,Hot flushes,4
+Sharp pain,Renal pain,2
+Sharp pain,Back pain,16
+Sharp pain,Sharp chest pain,2
+Sharp pain,Headache,2
+Sharp pain,Low back pain,5
+Sharp pain,Rectal pain,4
+Sharp pain,Hip pain,2
+Sharp pain,Pelvic pain,3
+Sharp pain,Pelvic pain female,3
+Sharp pain,Hip joint pain,2
+Sharp pain,Groin pain,3
+Sharp pain,Sciatica,4
+Sharp pain,Eye pain,2
+Sharp pain,Side pain,7
+Sharp pain,Liver pain,3
+Sharp pain,Bladder pain,3
+Abdominal pain,Diarrhea,32
+Abdominal pain,Exanthema,5
+Abdominal pain,Flushing,12
+Abdominal pain,Tremor,7
+Abdominal pain,Vomiting,26
+Abdominal pain,Upset stomach,6
+Abdominal pain,Dyspnea,3
+Abdominal pain,Feeling bad emotionally,9
+Abdominal pain,Anal pain,3
+Abdominal pain,Sick to stomach,4
+Abdominal pain,Syncope,5
+Abdominal pain,Shoulder pain,6
+Abdominal pain,Heartburn,25
+Abdominal pain,Mastodynia,2
+Abdominal pain,Heart problem,5
+Abdominal pain,Arthralgia,5
+Abdominal pain,Dull pain,12
+Abdominal pain,Welts,4
+Abdominal pain,Spasm,6
+Abdominal pain,Eructation,18
+Abdominal pain,Hot flushes,2
+Abdominal pain,Congestion of throat,2
+Abdominal pain,Neck stiffness,3
+Abdominal pain,Diarrhea and vomiting,2
+Abdominal pain,Blood in stool,4
+Abdominal pain,Back pain,15
+Abdominal pain,Cardiac pain,2
+Abdominal pain,Headache,2
+Abdominal pain,Low back pain,8
+Abdominal pain,Rectal pain,3
+Abdominal pain,Hip pain,2
+Abdominal pain,Pelvic pain,4
+Abdominal pain,Pelvic pain female,4
+Abdominal pain,Hip joint pain,2
+Abdominal pain,Arm pain,3
+Abdominal pain,Groin pain,2
+Abdominal pain,Jaw pain,2
+Abdominal pain,Night pain,4
+Abdominal pain,Side pain,3
+Abdominal pain,Icterus,4
+Abdominal pain,Yellow complexion,4
+Diarrhea,Heart symptoms,2
+Diarrhea,Exanthema,16
+Diarrhea,Flushing,6
+Diarrhea,Tremor,11
+Diarrhea,Vomiting,41
+Diarrhea,Upset stomach,14
+Diarrhea,Dyspnea,7
+Diarrhea,Feeling bad emotionally,9
+Diarrhea,Anal pain,4
+Diarrhea,Sleeplessness,4
+Diarrhea,Sick to stomach,3
+Diarrhea,Syncope,8
+Diarrhea,Shoulder pain,2
+Diarrhea,Heartburn,33
+Diarrhea,Absence of sensation,3
+Diarrhea,Heart problem,4
+Diarrhea,Lightheadedness,3
+Diarrhea,Arthralgia,7
+Diarrhea,Chronic pain,2
+Diarrhea,Dull pain,12
+Diarrhea,Welts,8
+Diarrhea,Spasm,12
+Diarrhea,Eructation,24
+Diarrhea,Hot flushes,3
+Diarrhea,Vertigo,2
+Diarrhea,Diarrhea and vomiting,7
+Diarrhea,Blood in stool,12
+Diarrhea,Chest discomfort,3
+Diarrhea,Back pain,16
+Diarrhea,Facial pain,2
+Diarrhea,Night sweats,4
+Diarrhea,Low back pain,4
+Diarrhea,Rectal pain,3
+Diarrhea,Pelvic pain,3
+Diarrhea,Pelvic pain female,3
+Diarrhea,Groin pain,2
+Diarrhea,Sciatica,2
+Diarrhea,Night pain,2
+Diarrhea,Side pain,3
+Diarrhea,Liver pain,2
+Diarrhea,Sitting pain,2
+Diarrhea,Icterus,2
+Diarrhea,Yellow complexion,2
+Diarrhea,Right upper quadrant pain,3
+Diarrhea,Painful rt shoulder,2
+Diarrhea,Upper abdominal pain,2
+Diarrhea,Infantile colic,4
+Breath symptom,Feeling bad emotionally,2
+Exanthema,Flushing,11
+Exanthema,Tremor,8
+Exanthema,Vomiting,14
+Exanthema,Upset stomach,5
+Exanthema,Feeling bad emotionally,6
+Exanthema,Sleeplessness,8
+Exanthema,Syncope,2
+Exanthema,Heartburn,7
+Exanthema,Breast tenderness,2
+Exanthema,Lightheadedness,2
+Exanthema,Arthralgia,7
+Exanthema,Chronic pain,3
+Exanthema,Dull pain,3
+Exanthema,Welts,40
+Exanthema,Spasm,5
+Exanthema,Skin symptoms,3
+Exanthema,Eructation,3
+Exanthema,Blotch,2
+Exanthema,Hot flushes,5
+Exanthema,Neuralgia,2
+Exanthema,Rhinorrhea,3
+Exanthema,Congestion of throat,3
+Exanthema,Vertigo,4
+Exanthema,Diarrhea and vomiting,4
+Exanthema,Itch burning,8
+Exanthema,Burning feet,3
+Exanthema,Swollen lip,6
+Exanthema,Oral pain,2
+Exanthema,Back pain,4
+Exanthema,Night sweats,3
+Exanthema,Cardiac pain,2
+Exanthema,Knee pain,2
+Exanthema,Local reaction,2
+Exanthema,Dystonia,2
+Exanthema,Headache,2
+Exanthema,Hip pain,2
+Exanthema,Hip joint pain,2
+Exanthema,Petechiae of skin,2
+Exanthema,Spots on skin,2
+Exanthema,Side pain,2
+Flushing,Tremor,6
+Flushing,Vomiting,8
+Flushing,Upset stomach,3
+Flushing,Dyspnea,3
+Flushing,Feeling bad emotionally,7
+Flushing,Charmed,2
+Flushing,Sleeplessness,4
+Flushing,Syncope,5
+Flushing,Shoulder pain,2
+Flushing,Heartburn,9
+Flushing,Breast tenderness,2
+Flushing,Lightheadedness,2
+Flushing,Arthralgia,3
+Flushing,Chronic pain,2
+Flushing,Dull pain,4
+Flushing,Welts,8
+Flushing,Skin symptoms,2
+Flushing,Hot flushes,4
+Flushing,Rhinorrhea,3
+Flushing,Neck stiffness,2
+Flushing,Vertigo,5
+Flushing,Burning feet,2
+Flushing,Back pain,5
+Flushing,Night sweats,3
+Flushing,Breathing pain,2
+Flushing,Low back pain,2
+Flushing,Pelvic pain,3
+Flushing,Pelvic pain female,3
+Flushing,Petechiae of skin,3
+Flushing,Blushing,3
+Flushing,Feeling of loss of feeling,2
+Tremor,Vomiting,10
+Tremor,Upset stomach,2
+Tremor,Dyspnea,5
+Tremor,Breathing abnormally deep,4
+Tremor,Blackout,2
+Tremor,Snoring,3
+Tremor,Feeling bad emotionally,15
+Tremor,Sleeplessness,7
+Tremor,Sick to stomach,3
+Tremor,Syncope,10
+Tremor,Heartburn,13
+Tremor,Recurrent muscle twitches,3
+Tremor,Absence of sensation,3
+Tremor,Shallow breathing,2
+Tremor,Feeling cold,4
+Tremor,Heart problem,2
+Tremor,Lightheadedness,7
+Tremor,Arthralgia,5
+Tremor,Chronic pain,5
+Tremor,Cold sweat,3
+Tremor,Dull pain,4
+Tremor,Welts,5
+Tremor,Spasm,11
+Tremor,Skin symptoms,2
+Tremor,Eructation,3
+Tremor,Hot flushes,5
+Tremor,Neuralgia,3
+Tremor,Congestion of throat,2
+Tremor,Lump in throat,2
+Tremor,Neck stiffness,2
+Tremor,Vertigo,5
+Tremor,Shaking of hands,3
+Tremor,Blood in stool,2
+Tremor,Back pain,7
+Tremor,Facial pain,3
+Tremor,Cardiac pain,2
+Tremor,Knee pain,2
+Tremor,Headache,2
+Tremor,Breathing pain,2
+Tremor,Low back pain,2
+Tremor,Angina pectoris,2
+Tremor,Tremor of hands,2
+Tremor,Teeth chattering,2
+Tremor,Feeling faint,3
+Tremor,Akathisia,2
+Tremor,Eye pain,2
+Tremor,Side pain,2
+Tremor,Hunger pangs,2
+Vomiting,Upset stomach,9
+Vomiting,Breathing abnormally deep,2
+Vomiting,Feeling bad emotionally,12
+Vomiting,Charmed,2
+Vomiting,Sleeplessness,3
+Vomiting,Sick to stomach,9
+Vomiting,Syncope,7
+Vomiting,Shoulder pain,3
+Vomiting,Heartburn,39
+Vomiting,Breast tenderness,2
+Vomiting,Recurrent muscle twitches,2
+Vomiting,Absence of sensation,6
+Vomiting,Shoulder blade pain,2
+Vomiting,Feeling cold,4
+Vomiting,Heart problem,3
+Vomiting,Lightheadedness,2
+Vomiting,Arthralgia,5
+Vomiting,Chronic pain,3
+Vomiting,Cold sweat,3
+Vomiting,Dull pain,7
+Vomiting,Welts,6
+Vomiting,Gasping for breath,2
+Vomiting,Spasm,10
+Vomiting,Eructation,32
+Vomiting,Hot flushes,3
+Vomiting,Neuralgia,2
+Vomiting,Rhinorrhea,2
+Vomiting,Congestion of throat,2
+Vomiting,Lump in throat,4
+Vomiting,Vertigo,2
+Vomiting,Diarrhea and vomiting,9
+Vomiting,Renal pain,3
+Vomiting,Blood in stool,5
+Vomiting,Back pain,15
+Vomiting,Night sweats,6
+Vomiting,Cardiac pain,2
+Vomiting,Retching,3
+Vomiting,Chest tightness,2
+Vomiting,Headache,2
+Vomiting,Breathing pain,2
+Vomiting,Low back pain,3
+Vomiting,Pelvic pain,3
+Vomiting,Pelvic pain female,3
+Vomiting,Jaw pain,2
+Vomiting,Fever with rash,3
+Vomiting,Gastrointestinal pain,2
+Vomiting,Nausea chronic,2
+Vomiting,Eye pain,2
+Vomiting,Thigh cramps,2
+Vomiting,Side pain,4
+Vomiting,Liver pain,2
+Vomiting,Right upper quadrant pain,4
+Vomiting,Hunger pangs,2
+Vomiting,Renal colic,2
+Vomiting,Back pain mid back,2
+Vomiting,Infantile colic,3
+Pain in testicle,Groin pain,2
+Upset stomach,Feeling bad emotionally,2
+Upset stomach,Syncope,2
+Upset stomach,Heartburn,10
+Upset stomach,Mastodynia,3
+Upset stomach,Arthralgia,2
+Upset stomach,Dull pain,2
+Upset stomach,Spasm,2
+Upset stomach,Eructation,6
+Upset stomach,Congestion of throat,2
+Upset stomach,Lump in throat,2
+Upset stomach,Diarrhea and vomiting,2
+Upset stomach,Chest discomfort,2
+Upset stomach,Back pain,4
+Upset stomach,Breast pain female,2
+Upset stomach,Icterus,2
+Upset stomach,Yellow complexion,2
+Upset stomach,Right upper quadrant pain,3
+Rigor - temperature-associated observation,Muscle rigidity,9
+Muscle rigidity,Back pain,3
+Dyspnea,Breathing abnormally deep,3
+Dyspnea,Feeling bad emotionally,3
+Dyspnea,Syncope,7
+Dyspnea,Heartburn,3
+Dyspnea,Dull pain,3
+Dyspnea,Gasping for breath,3
+Dyspnea,Eructation,5
+Dyspnea,Chest tightness,2
+Dyspnea,Bone pain,2
+Breathing abnormally deep,Feeling bad emotionally,2
+Breathing abnormally deep,Charmed,2
+Breathing abnormally deep,Sleeplessness,2
+Breathing abnormally deep,Syncope,2
+Breathing abnormally deep,Heartburn,4
+Breathing abnormally deep,Lightheadedness,2
+Breathing abnormally deep,Dull pain,3
+Breathing abnormally deep,Gasping for breath,2
+Breathing abnormally deep,Eructation,3
+Breathing abnormally deep,Back pain,5
+Breathing abnormally deep,Chest tightness,2
+Blackout,Sleeplessness,2
+Feeling bad emotionally,Sleeplessness,4
+Feeling bad emotionally,Syncope,2
+Feeling bad emotionally,Heartburn,6
+Feeling bad emotionally,Recurrent muscle twitches,2
+Feeling bad emotionally,Feeling cold,2
+Feeling bad emotionally,Heart problem,3
+Feeling bad emotionally,Arthralgia,3
+Feeling bad emotionally,Chronic pain,2
+Feeling bad emotionally,Dull pain,2
+Feeling bad emotionally,Welts,2
+Feeling bad emotionally,Spasm,2
+Feeling bad emotionally,Skin symptoms,2
+Feeling bad emotionally,Eructation,2
+Feeling bad emotionally,Hot flushes,3
+Feeling bad emotionally,Congestion of throat,3
+Feeling bad emotionally,Back pain,8
+Feeling bad emotionally,Back symptoms,3
+Feeling bad emotionally,Chest tightness,2
+Feeling bad emotionally,Night pain,2
+Charmed,Whooping respiration,2
+Charmed,Heartburn,2
+Anal pain,Heartburn,2
+Anal pain,Dull pain,2
+Anal pain,Spasm,2
+Anal pain,Blood in stool,2
+Anal pain,Back pain,3
+Anal pain,Pruritus ani,3
+Anal pain,Low back pain,3
+Anal pain,Rectal pain,12
+Anal pain,Pelvic pain,2
+Anal pain,Pelvic pain female,2
+Sleeplessness,Syncope,2
+Sleeplessness,Heartburn,2
+Sleeplessness,Breast tenderness,2
+Sleeplessness,Lightheadedness,3
+Sleeplessness,Arthralgia,3
+Sleeplessness,Agitation,4
+Sleeplessness,Restlessness,4
+Sleeplessness,Welts,3
+Sleeplessness,Eructation,2
+Sleeplessness,Hot flushes,11
+Sleeplessness,Vertigo,3
+Sleeplessness,Facial pain,2
+Sleeplessness,Night sweats,4
+Sleeplessness,Difficulty sleeping,2
+Sleeplessness,Hip pain,2
+Sleeplessness,Hip joint pain,2
+Sleeplessness,Rebound insomnia,2
+Sleeplessness,Bone pain,3
+Sick to stomach,Heartburn,2
+Sick to stomach,Arthralgia,2
+Sick to stomach,Welts,2
+Sick to stomach,Hot flushes,2
+Sick to stomach,Back pain,4
+Sick to stomach,Cardiac pain,2
+Syncope,Heartburn,7
+Syncope,Feeling cold,2
+Syncope,Heart problem,4
+Syncope,Lightheadedness,8
+Syncope,Arthralgia,4
+Syncope,Dull pain,4
+Syncope,Welts,4
+Syncope,Gasping for breath,2
+Syncope,Spasm,5
+Syncope,Eructation,4
+Syncope,Hot flushes,7
+Syncope,Neck stiffness,2
+Syncope,Vertigo,8
+Syncope,Back pain,9
+Syncope,Night sweats,2
+Syncope,Chest tightness,3
+Syncope,Breathing pain,2
+Syncope,Low back pain,2
+Syncope,Feeling faint,7
+Syncope,Cardiac symptom,2
+Whooping respiration,Spasm,2
+Sore back,Hot flushes,2
+Shoulder pain,Heartburn,4
+Shoulder pain,Lightheadedness,2
+Shoulder pain,Arthralgia,2
+Shoulder pain,Dull pain,3
+Shoulder pain,Eructation,7
+Shoulder pain,Back pain,3
+Shoulder pain,Arm pain,2
+Heartburn,Mastodynia,2
+Heartburn,Recurrent muscle twitches,2
+Heartburn,Absence of sensation,3
+Heartburn,Shallow breathing,2
+Heartburn,Feeling cold,2
+Heartburn,Heart problem,6
+Heartburn,Lightheadedness,5
+Heartburn,Arthralgia,3
+Heartburn,Chronic pain,2
+Heartburn,Dull pain,11
+Heartburn,Welts,5
+Heartburn,Gasping for breath,2
+Heartburn,Spasm,13
+Heartburn,Skin symptoms,2
+Heartburn,Eructation,44
+Heartburn,Hot flushes,5
+Heartburn,Rhinorrhea,10
+Heartburn,Congestion of throat,6
+Heartburn,Lump in throat,10
+Heartburn,Vertigo,5
+Heartburn,Diarrhea and vomiting,2
+Heartburn,Burning feet,2
+Heartburn,Blood in stool,5
+Heartburn,Chest discomfort,5
+Heartburn,Back pain,19
+Heartburn,Night sweats,5
+Heartburn,Cardiac pain,7
+Heartburn,Phantosmia,3
+Heartburn,Retching,3
+Heartburn,Sharp chest pain,2
+Heartburn,Chest tightness,2
+Heartburn,Headache,2
+Heartburn,Breathing pain,3
+Heartburn,Hyperalgesia,2
+Heartburn,Chronic cough,4
+Heartburn,Low back pain,3
+Heartburn,Rectal pain,2
+Heartburn,Pelvic pain,5
+Heartburn,Pelvic pain female,5
+Heartburn,Arm pain,2
+Heartburn,Jaw pain,3
+Heartburn,Chest burning,4
+Heartburn,Rib pain,2
+Heartburn,Night pain,4
+Heartburn,Eye pain,2
+Heartburn,Side pain,3
+Heartburn,Liver pain,2
+Heartburn,Sitting pain,2
+Heartburn,Palpitations - fluttering,3
+Heartburn,Hunger pangs,3
+Heartburn,Upper abdominal pain,2
+Heartburn,Gastric spasm (disorder),2
+Heartburn,Right sided abdominal pain,2
+Heartburn,Infantile colic,2
+Mastodynia,Breast tenderness,8
+Mastodynia,Eructation,2
+Mastodynia,Hot flushes,3
+Mastodynia,Back pain,5
+Mastodynia,Pelvic pain female,2
+Mastodynia,Breast pain female,21
+Breast tenderness,Hot flushes,6
+Breast tenderness,Back pain,4
+Breast tenderness,Night sweats,5
+Breast tenderness,Breast pain female,5
+Breast tenderness,Feeling of loss of feeling,2
+Absence of sensation,Eructation,2
+Absence of sensation,Blood in stool,3
+Shoulder blade pain,Dull pain,2
+Shoulder blade pain,Back pain,3
+Feeling cold,Lightheadedness,2
+Feeling cold,Back pain,3
+Feeling cold,Chest tightness,2
+Heart problem,Lightheadedness,3
+Heart problem,Dull pain,3
+Heart problem,Gasping for breath,2
+Heart problem,Eructation,3
+Heart problem,Hot flushes,3
+Heart problem,Chest discomfort,2
+Heart problem,Back pain,3
+Heart problem,Arm pain,2
+Heart problem,Palpitations - fluttering,2
+Lightheadedness,Arthralgia,2
+Lightheadedness,Dull pain,2
+Lightheadedness,Agitation,2
+Lightheadedness,Restlessness,2
+Lightheadedness,Eructation,2
+Lightheadedness,Hot flushes,2
+Lightheadedness,Vertigo,4
+Lightheadedness,Shaking of hands,2
+Lightheadedness,Back pain,3
+Lightheadedness,Chest tightness,2
+Lightheadedness,Breathing pain,2
+Lightheadedness,Low back pain,2
+Arthralgia,Chronic pain,2
+Arthralgia,Dull pain,3
+Arthralgia,Welts,5
+Arthralgia,Spasm,2
+Arthralgia,Eructation,2
+Arthralgia,Hot flushes,5
+Arthralgia,Diarrhea and vomiting,2
+Arthralgia,Itch burning,2
+Arthralgia,Blood in stool,2
+Arthralgia,Back pain,10
+Arthralgia,Night sweats,2
+Arthralgia,Knee pain,6
+Arthralgia,Hip pain,2
+Arthralgia,Hip joint pain,2
+Arthralgia,Sciatica,2
+Arthralgia,Bone pain,2
+Arthralgia,Night pain,2
+Arthralgia,Icterus,4
+Arthralgia,Yellow complexion,4
+Chronic pain,Dull pain,2
+Chronic pain,Neuralgia,3
+Chronic pain,Back pain,5
+Chronic pain,Facial pain,2
+Chronic pain,Pelvic pain,3
+Chronic pain,Pelvic pain female,3
+Chronic pain,Groin pain,2
+Chronic pain,Chronic back pain,3
+Chronic pain,Liver pain,2
+Cold sweat,Congestion of throat,2
+Dull pain,Agitation,3
+Dull pain,Restlessness,3
+Dull pain,Gasping for breath,2
+Dull pain,Eructation,9
+Dull pain,Neck stiffness,3
+Dull pain,Vertigo,3
+Dull pain,Renal pain,2
+Dull pain,Blood in stool,4
+Dull pain,Back pain,19
+Dull pain,Night sweats,3
+Dull pain,Pain in lower limb,3
+Dull pain,Low back pain,7
+Dull pain,Rectal pain,3
+Dull pain,Pelvic pain,5
+Dull pain,Pelvic pain female,6
+Dull pain,Arm pain,2
+Dull pain,Groin pain,2
+Dull pain,Angina pectoris,2
+Dull pain,Sciatica,3
+Dull pain,Night pain,2
+Dull pain,Thigh pain,2
+Dull pain,Side pain,2
+Dull pain,Liver pain,3
+Dull pain,Forearm pain,2
+Dull pain,Right upper quadrant pain,4
+Dull pain,Painful rt shoulder,2
+Dull pain,Groin discomfort,2
+Dull pain,Stomach dull pain of,2
+Agitation,Restlessness,19
+Agitation,Vertigo,2
+Restlessness,Vertigo,2
+Welts,Eructation,2
+Welts,Blotch,4
+Welts,Hot flushes,4
+Welts,Rhinorrhea,3
+Welts,Congestion of throat,7
+Welts,Itch burning,5
+Welts,Swollen lip,5
+Welts,Local reaction,2
+Gasping for breath,Eructation,4
+Gasping for breath,Rhinorrhea,2
+Gasping for breath,Lump in throat,2
+Spasm,Eructation,4
+Spasm,Neck stiffness,3
+Spasm,Vertigo,3
+Spasm,Burning feet,3
+Spasm,Back pain,12
+Spasm,Night sweats,2
+Spasm,Cardiac pain,3
+Spasm,Pain in lower limb,2
+Spasm,Dystonia,2
+Spasm,Difficulty sleeping,2
+Spasm,Breathing pain,3
+Spasm,Pruritus ani,2
+Spasm,Low back pain,3
+Spasm,Night pain,2
+Spasm,Side pain,2
+Spasm,Kidney problem,2
+Spasm,Right upper quadrant pain,3
+Spasm,Bladder pain,2
+Spasm,Hunger pangs,2
+Spasm,Bladder spasm,2
+Skin symptoms,Hot flushes,2
+Eructation,Hot flushes,3
+Eructation,Rhinorrhea,3
+Eructation,Congestion of throat,2
+Eructation,Lump in throat,7
+Eructation,Diarrhea and vomiting,2
+Eructation,Frequent passing of stools,2
+Eructation,Chest discomfort,3
+Eructation,Back pain,9
+Eructation,Chest tightness,3
+Eructation,Hyperalgesia,2
+Eructation,Arm pain,4
+Eructation,Breast pain female,2
+Eructation,Right upper quadrant pain,2
+Hot flushes,Vertigo,2
+Hot flushes,Back pain,8
+Hot flushes,Night sweats,20
+Hot flushes,Pain in lower limb,2
+Hot flushes,Low back pain,3
+Hot flushes,Pelvic pain,3
+Hot flushes,Pelvic pain female,4
+Hot flushes,Sciatica,2
+Hot flushes,Bone pain,2
+Hot flushes,Feeling faint,3
+Hot flushes,Feeling of loss of feeling,2
+Neuralgia,Facial pain,2
+Neuralgia,Eye pain,2
+Rhinorrhea,Lump in throat,2
+Rhinorrhea,Chronic cough,4
+Congestion of throat,Headache,2
+Lump in throat,Back pain,2
+Neck stiffness,Vertigo,3
+Neck stiffness,Back pain,2
+Neck stiffness,Night sweats,2
+Neck stiffness,Eye pain,2
+Vertigo,Back pain,2
+Vertigo,Bone pain,2
+Vertigo,Eye pain,2
+Burning feet,Back pain,3
+Burning feet,Night sweats,2
+Renal pain,Back pain,3
+Renal pain,Side pain,2
+Renal pain,Liver pain,2
+Renal pain,Kidney problem,2
+Blood in stool,Back pain,3
+Blood in stool,Feces color: tarry,2
+Blood in stool,Pelvic pain,3
+Blood in stool,Pelvic pain female,3
+Blood in stool,Bone pain,2
+Chest discomfort,Chest tightness,2
+Back pain,Night sweats,5
+Back pain,Cardiac pain,2
+Back pain,Knee pain,3
+Back pain,Leg cramps,2
+Back pain,Pain in lower limb,5
+Back pain,Chest tightness,2
+Back pain,Difficulty sleeping,2
+Back pain,Low back pain,22
+Back pain,Rectal pain,3
+Back pain,Hip pain,5
+Back pain,Pelvic pain,7
+Back pain,Pelvic pain female,9
+Back pain,Hip joint pain,5
+Back pain,Groin pain,3
+Back pain,Sciatica,6
+Back pain,Bladder symptoms,2
+Back pain,Night pain,4
+Back pain,Eye pain,2
+Back pain,Breast pain female,4
+Back pain,Thigh pain,2
+Back pain,Thigh cramps,2
+Back pain,Side pain,5
+Back pain,Sitting pain,2
+Back pain,Right upper quadrant pain,6
+Back pain,Bladder pain,3
+Back pain,Painful rt shoulder,3
+Back pain,Renal colic,2
+Back pain,Lower abdominal pain,2
+Back pain,Swelling of the neck,2
+Back pain,Infantile colic,2
+Back pain,Stomach dull pain of,2
+Facial pain,Eye pain,2
+Night sweats,Low back pain,2
+Night sweats,Night pain,3
+Night sweats,Inguinal mass,3
+Night sweats,Feeling of loss of feeling,2
+Cardiac pain,Myalgia,2
+Cardiac pain,Feeling of loss of feeling,2
+Pain in lower limb,Low back pain,4
+Pain in lower limb,Sciatica,2
+Eyes twitching,Myokymia,2
+Headache,Eye pain,2
+Pruritus ani,Rectal pain,2
+Low back pain,Rectal pain,3
+Low back pain,Hip pain,3
+Low back pain,Pelvic pain,5
+Low back pain,Pelvic pain female,5
+Low back pain,Hip joint pain,3
+Low back pain,Sciatica,3
+Low back pain,Night pain,4
+Low back pain,Thigh pain,3
+Low back pain,Kidney problem,2
+Rectal pain,Pelvic pain,2
+Rectal pain,Pelvic pain female,2
+Hip pain,Hip joint pain,17
+Hip pain,Sciatica,2
+Pelvic pain,Pelvic pain female,51
+Pelvic pain,Bladder pain,3
+Pelvic pain female,Bladder pain,3
+Hip joint pain,Sciatica,2
+Sciatica,Side pain,2
+Side pain,Renal colic,2
+Icterus,Yellow complexion,7
+Kidney problem,Bladder pain,2
+Renal colic,Back pain mid back,2
