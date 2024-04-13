@@ -120,9 +120,42 @@ document
           comments.appendChild(commentText);
         });
 
+        const symptoms = document.createElement("div");
+        symptoms.classList.add("symptoms");
+        symptoms.innerHTML = "<h3>Symptoms</h3>";
+        post.symptoms.forEach((symptom) => {
+          const symptomPill = document.createElement("div");
+          symptomPill.classList.add("pill");
+          symptomPill.textContent = symptom;
+          symptoms.appendChild(symptomPill);
+        });
+
+        const diseases = document.createElement("div");
+        diseases.classList.add("diseases");
+        diseases.innerHTML = "<h3>Diseases</h3>";
+        post.diseases.forEach((disease) => {
+          const diseasePill = document.createElement("div");
+          diseasePill.classList.add("pill");
+          diseasePill.textContent = disease;
+          diseases.appendChild(diseasePill);
+        });
+
+        const diagnosticProcedures = document.createElement("div");
+        diagnosticProcedures.classList.add("diagnostic-procedures");
+        diagnosticProcedures.innerHTML = "<h3>Diagnostic Procedures</h3>";
+        post.diagnostic_procedures.forEach((procedure) => {
+          const procedurePill = document.createElement("div");
+          procedurePill.classList.add("pill");
+          procedurePill.textContent = procedure;
+          diagnosticProcedures.appendChild(procedurePill);
+        });
+
         card.appendChild(title);
         card.appendChild(content);
         card.appendChild(url);
+        card.appendChild(symptoms);
+        card.appendChild(diseases);
+        card.appendChild(diagnosticProcedures);
         card.appendChild(comments);
 
         searchResults.appendChild(card);
