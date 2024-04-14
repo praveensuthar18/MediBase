@@ -3,31 +3,23 @@ import json
 import os
 from cleantext import clean
 import pandas as pd
+import re
 
 class Utils:
 
-    def __init__(self, path="./sympgraph.csv"):
-            self.df = pd.read_csv(path, encoding="latin-1")
+    def __init__(self, path="./sympgraph.xlsx"):
+            self.df = pd.read_excel(path, engine='openpyxl')
             self.query_table = self.df["Source"].values
 
-    def ranker(self, query):
-        if len(query) > 1:
-            query = [i for i in query if i in self.query_table]
-            filter_df = self.df[self.df["Source"].isin(query)]
-        elif len(query) == 1:
-            if query[0] not in self.query_table:
-                return "Invalid Query -- Try again"
-            filter_df = self.df[self.df["Source"] == query[0]]
-        else:
-            return "Empty Query -- Try again"
+    def fetch_additional_symptoms(self, query):
+        query = [i for i in query if i in self.query_table]
+        result = []
+        if query:
+            result = self.df.loc[self.df["Source"].isin(query) & ~self.df["Target"].isin(query)]
+            result = result.sort_values("Weight", ascending=False).drop_duplicates("Target")["Target"].tolist()
+        return result[:10]
 
-        filter_df = filter_df[~filter_df["Target"].isin(query)]
-        filter_df = filter_df.sort_values("Weight", ascending=False)
-        filter_df.drop_duplicates(subset=["Target"], inplace=True)
-
-        return filter_df["Target"].to_list()
-
-    def process_input(self, input_text):
+    def annotate_query(self, input_text):
         if not input_text:
             return {'error': 'No input provided'}
 
@@ -54,14 +46,14 @@ class Utils:
             filtered_output = '\n'.join(filtered_lines)
             # print(result.stdout)
             if filtered_output.strip():  # Check if stdout is not empty
-                output = self.read_output(filtered_output)
+                output = self.parse_output(filtered_output)
                 return output
             else:
                 return {'error': 'No output from subprocess'}
         else:
             return {'error': 'An error occurred while processing the input'}
         
-    def read_output(self, data):
+    def parse_output(self, data):
         data1 = json.loads(data)
         symptoms = []
         diseases = []
@@ -79,9 +71,19 @@ class Utils:
 
         extracted_data = {}
         if symptoms:
-            extracted_data['symptoms'] = symptoms
+            extracted_data['symptoms'] = symptoms + self.fetch_additional_symptoms([q.lower().capitalize() for q in symptoms])
+            extracted_data['symptoms']  = [self.remove_parentheses_and_quotes(symptom) for symptom in extracted_data['symptoms']]
         if diseases:
             extracted_data['diseases'] = diseases
         if diagnostics:
             extracted_data['diagnostics'] = diagnostics
         return json.dumps(extracted_data, indent=4)
+    
+    def remove_parentheses_and_quotes(self, text):
+    # Regular expression pattern to match text within parentheses or quotes
+        pattern = r"\([^)]*\)|\"[^\"]*\""
+    # Replace the matched pattern with an empty string
+        return re.sub(pattern, "", text)
+
+# Apply the function to each symptom in the list
+

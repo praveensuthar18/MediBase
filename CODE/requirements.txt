@@ -1,0 +1,6 @@
+cleantext
+Flask
+pandas
+pysolr
+flask-cors
+openpyxl

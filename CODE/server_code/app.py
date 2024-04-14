@@ -1,11 +1,19 @@
 from flask import Flask, request, jsonify
 import pysolr
 from Utils import Utils
-
+from flask_cors import CORS
 app = Flask(__name__)
 util = Utils()
 SOLR_URL = 'http://localhost:8983/solr/'  # Update with your Solr URL
 CORE_NAME = 'healthify'  # Update with your Solr core name
+
+CORS(app)
+# Enable CORS on all routes
+cors = CORS(app, resource={
+    r"/*": {
+        "origins": "*"
+    }
+})
 
 # Initialize Solr client
 solr = pysolr.Solr(f'{SOLR_URL}{CORE_NAME}', always_commit=True)
@@ -42,19 +50,8 @@ def search():
 @app.route('/process-query', methods=['POST'])
 def process():
     input_text = request.json.get('query')
-    output = util.process_input(input_text)
+    output = util.annotate_query(input_text)
     return output
-
-@app.route('/ranker', methods=['POST'])
-def ranker():
-    # Get the parameters from the request
-    query = request.json.get('query')
-    # print(query)
-    # Call the ranker method
-    result = util.ranker([q.lower().capitalize() for q in query])
-
-    # Return the result as JSON
-    return jsonify(result)
 
 if __name__ == '__main__':
     app.run(debug=True, port=8080)
