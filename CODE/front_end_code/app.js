@@ -78,63 +78,63 @@ document
         // const title = document.createElement("h2");
         // title.textContent = post.post_content[0];
 
-        console.log(post.post_content[0])
-        if (post.hasOwnProperty("post_content") && post.post_content[0] != "") {
-          const content = document.createElement("p");
-          content.textContent = post.post_content[0];
-          card.appendChild(content);
-        
-          if(post.hasOwnProperty("post_url") && post.post_url[0] != "") {
-            const url = document.createElement("a");
-          url.textContent = "Read more";
-          url.href = `https://${post.post_url[0].trim()}`;
-          url.target = "_blank";
-          card.appendChild(url);
-          }
-          
-        
-          if (post.hasOwnProperty("symptoms") && post.symptoms.length > 0) {
-            const symptoms = document.createElement("div");
-            symptoms.classList.add("symptoms");
-            symptoms.innerHTML = "<h3>Symptoms</h3>";
-            post.symptoms.forEach((symptom) => {
-              const symptomPill = document.createElement("div");
-              symptomPill.classList.add("pill");
-              symptomPill.textContent = symptom;
-              symptoms.appendChild(symptomPill);
-            });
-            card.appendChild(symptoms);
-          }
-        
-          if (post.hasOwnProperty("diseases") && post.diseases.length > 0) {
-            const diseases = document.createElement("div");
-            diseases.classList.add("diseases");
-            diseases.innerHTML = "<h3>Diseases</h3>";
-            post.diseases.forEach((disease) => {
-              const diseasePill = document.createElement("div");
-              diseasePill.classList.add("pill");
-              diseasePill.textContent = disease;
-              diseases.appendChild(diseasePill);
-            });
-            card.appendChild(diseases);
-          }
-        
-          if (post.hasOwnProperty("diagnostic_procedures") && post.diagnostic_procedures.length > 0) {
-            const diagnosticProcedures = document.createElement("div");
-            diagnosticProcedures.classList.add("diagnostic-procedures");
-            diagnosticProcedures.innerHTML = "<h3>Diagnostic Procedures</h3>";
-            post.diagnostic_procedures.forEach((procedure) => {
-              const procedurePill = document.createElement("div");
-              procedurePill.classList.add("pill");
-              procedurePill.textContent = procedure;
-              diagnosticProcedures.appendChild(procedurePill);
-            });
-            card.appendChild(diagnosticProcedures);
-          }
-        
-          searchResults.appendChild(card);
-        }
-        
+        const content = document.createElement("p");
+        content.textContent = post.post_content[0];
+
+        const url = document.createElement("a");
+        url.textContent = "Read more";
+        url.href = `https://${post.post_url[0].trim()}`;
+        url.target = "_blank";
+        console.log(url)
+
+        const comments = document.createElement("div");
+        comments.classList.add("comments");
+        comments.innerHTML = "<h3>Comments</h3>";
+        post.post_comments.forEach((comment) => {
+          const commentText = document.createElement("p");
+          commentText.textContent = comment;
+          comments.appendChild(commentText);
+        });
+
+        const symptoms = document.createElement("div");
+        symptoms.classList.add("symptoms");
+        symptoms.innerHTML = "<h3>Symptoms</h3>";
+        post.symptoms.forEach((symptom) => {
+          const symptomPill = document.createElement("div");
+          symptomPill.classList.add("pill");
+          symptomPill.textContent = symptom;
+          symptoms.appendChild(symptomPill);
+        });
+
+        const diseases = document.createElement("div");
+        diseases.classList.add("diseases");
+        diseases.innerHTML = "<h3>Diseases</h3>";
+        post.diseases.forEach((disease) => {
+          const diseasePill = document.createElement("div");
+          diseasePill.classList.add("pill");
+          diseasePill.textContent = disease;
+          diseases.appendChild(diseasePill);
+        });
+
+        const diagnosticProcedures = document.createElement("div");
+        diagnosticProcedures.classList.add("diagnostic-procedures");
+        diagnosticProcedures.innerHTML = "<h3>Diagnostic Procedures</h3>";
+        post.diagnostic_procedures.forEach((procedure) => {
+          const procedurePill = document.createElement("div");
+          procedurePill.classList.add("pill");
+          procedurePill.textContent = procedure;
+          diagnosticProcedures.appendChild(procedurePill);
+        });
+
+        // card.appendChild(title);
+        card.appendChild(content);
+        card.appendChild(url);
+        card.appendChild(symptoms);
+        card.appendChild(diseases);
+        card.appendChild(diagnosticProcedures);
+        card.appendChild(comments);
+
+        searchResults.appendChild(card);
       });
     }, 500);
   });
