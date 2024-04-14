@@ -41,42 +41,48 @@
     bin/solr start -p 8983
     ```
 
-10. Go back to the previous directory.
+10. 9. Create a core 'healthify' in the Apache solr to upload documents.
+
+    ```bash
+    bin/solr create -c healthify
+    ```
+
+11. Go back to the previous directory.
 
     ```bash
     cd ..
     ```
 
-11. Download the `processed_medical_data.json` file from the following link:
+12. Download the `processed_medical_data.json` file from the following link:
 
     [Download processed_medical_data.json](https://drive.google.com/file/d/1_EZip3zQlM1Ie0fWak2X716AQW_7HPMw/view?usp=sharing)
 
-12. Upload the `merged_data.json` file to Solr.
+13. Upload the `merged_data.json` file to Solr.
 
     ```bash
     curl 'http://localhost:8983/solr/healthify/update?commit=true' --data-binary @processed_medical_data.json -H 'Content-type:application/json'
     ```
 
-13. Run the `app.py` script.
+14. Run the `app.py` script.
 
-14. Go back to the parent directory.
+15. Go back to the parent directory.
 
     ```bash
     cd ..
     ```
 
-15. Move into the `front_end` directory.
+16. Move into the `front_end` directory.
 
     ```bash
     cd front_end
     ```
 
-16. Start a simple HTTP server.
+17. Start a simple HTTP server.
 
     ```bash
     python -m http.server
     ```
 
-17. Open the web page in your browser at the following address:
+18. Open the web page in your browser at the following address:
 
     [http://localhost:8000/](http://localhost:8000/)
