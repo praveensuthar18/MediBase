@@ -87,15 +87,6 @@ document
         url.target = "_blank";
         console.log(url)
 
-        const comments = document.createElement("div");
-        comments.classList.add("comments");
-        comments.innerHTML = "<h3>Comments</h3>";
-        post.post_comments.forEach((comment) => {
-          const commentText = document.createElement("p");
-          commentText.textContent = comment;
-          comments.appendChild(commentText);
-        });
-
         const symptoms = document.createElement("div");
         symptoms.classList.add("symptoms");
         symptoms.innerHTML = "<h3>Symptoms</h3>";
@@ -132,7 +123,6 @@ document
         card.appendChild(symptoms);
         card.appendChild(diseases);
         card.appendChild(diagnosticProcedures);
-        card.appendChild(comments);
 
         searchResults.appendChild(card);
       });
