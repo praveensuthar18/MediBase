@@ -1,9 +1,9 @@
 from flask import Flask, request, jsonify
 import pysolr
-from Utils import Utils
+from Helper import Helper
 from flask_cors import CORS
 app = Flask(__name__)
-util = Utils()
+helper = Helper()
 SOLR_URL = 'http://localhost:8983/solr/'  # Update with your Solr URL
 CORE_NAME = 'healthify'  # Update with your Solr core name
 
@@ -18,6 +18,8 @@ cors = CORS(app, resource={
 # Initialize Solr client
 solr = pysolr.Solr(f'{SOLR_URL}{CORE_NAME}', always_commit=True)
 
+
+# API to get the top relevant posts
 @app.route('/search', methods=['POST'])
 def search():
     request_data = request.json
@@ -28,10 +30,8 @@ def search():
     if not query_words:
         return jsonify({'error': 'Query parameter "query" must be a list of words'}), 400
     
-    # Construct the Solr query to search for each word in symptoms field
     solr_query = ' OR '.join([f'symptoms:{word}' for word in query_words])
     
-    # Sort the Solr results based on relevance (number of occurrences of query words in symptoms)
     solr_params = {
         'q': solr_query,
         'wt': 'json',  # Response format,
@@ -46,11 +46,11 @@ def search():
     else:
         return jsonify({'error': 'No results found'}), 404
     
-
+# API to process users query
 @app.route('/process-query', methods=['POST'])
 def process():
     input_text = request.json.get('query')
-    output = util.annotate_query(input_text)
+    output = helper.annotate_query(input_text)
     return output
 
 if __name__ == '__main__':
