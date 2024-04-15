@@ -41,7 +41,7 @@
     bin/solr start -p 8983
     ```
 
-10. 9. Create a core 'healthify' in the Apache solr to upload documents.
+10. Create a core 'healthify' in the Apache solr to upload documents.
 
     ```bash
     bin/solr create -c healthify
