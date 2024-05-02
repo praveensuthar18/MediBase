@@ -1,5 +1,7 @@
 # Setup Instructions
 
+Use a Linux Based PC or a Macbook to run the following steps
+
 1. Navigate to the `CODE` directory.
    
     ```bash
